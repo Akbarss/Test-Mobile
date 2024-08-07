@@ -7,6 +7,7 @@ import Slide from "@mui/material/Slide";
 import Toolbar from "@mui/material/Toolbar";
 import Typography from "@mui/material/Typography";
 import useScrollTrigger from "@mui/material/useScrollTrigger";
+import { usePathname, useRouter } from "next/navigation";
 import * as React from "react";
 import { UrlObject } from "url";
 import "../../../scss/global.css";
@@ -15,6 +16,9 @@ import { NavigationLink } from "../custom/NavigationLink";
 import MobileHeader from "./Mobile/MobileHeader";
 
 export function HeaderLink(props: { link: string | UrlObject; name: string; color?: string }) {
+  const router = useRouter();
+  const pathname = usePathname();
+
   return (
     <NavigationLink href={props.link} style={{ textDecoration: "none" }}>
       <Stack>
@@ -22,8 +26,8 @@ export function HeaderLink(props: { link: string | UrlObject; name: string; colo
           textAlign={"center"}
           sx={{
             cursor: "pointer",
+            color: router == props.link ? "#7C87F1" : " #1A1A1A",
           }}
-          color={props.color ? props.color : "#000000"}
         >
           {props.name}
         </Typography>
@@ -55,7 +59,7 @@ export default function HideAppBar(props: Props) {
     <React.Fragment>
       <CssBaseline />
       <HideOnScroll {...props}>
-        <AppBar className="glass18" sx={{ bgcolor: "#d6e3ffa3", boxShadow: 0 }}>
+        <AppBar className="glass18" sx={{ bgcolor: "#8badf6", boxShadow: 0 }}>
           <Container maxWidth="lg">
             <Stack
               p={1.5}
@@ -72,15 +76,11 @@ export default function HideAppBar(props: Props) {
               </Stack>
 
               <Box display={{ xs: "none", md: "flex" }} gap={3.5}>
-                <HeaderLink link="/" name={"Home"} />
+                <HeaderLink link="/" name={"Главная"} />
 
-                <HeaderLink link="/" name={"Products"} />
+                <HeaderLink link="/products" name={"Продукты"} />
 
-                <HeaderLink link="/" name={"Pricing"} />
-
-                <HeaderLink link="/" name={"Services"} />
-
-                <HeaderLink link="/" name={"Contact Us"} />
+                <HeaderLink link="/" name={"О нас"} />
               </Box>
 
               <Box display={{ xs: "none", md: "flex" }} gap={1.5}>

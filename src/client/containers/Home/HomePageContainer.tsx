@@ -11,7 +11,7 @@ const HomePageContainer = () => {
   return (
     <Stack direction={"column"} id="#scroll_to_top" spacing={5} alignItems={"center"}>
       {/* /////// HOME PAGE 1 BLOCK /////// */}
-      <Box width={"100%"} bgcolor={"secondary.main"} mt={-1} pt={{ xs: 7, md: 10 }}>
+      <Box width={"100%"} bgcolor={"secondary.main"} mt={-1} pt={{ xs: 7, md: 10 }} borderRadius={"0px 0px 20px 20px"}>
         <Container maxWidth="lg">
           <LazyShow>
             <Stack direction={"column"} spacing={1}>

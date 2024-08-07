@@ -1,0 +1,2933 @@
+{
+    "skladProduct": [
+        {
+            "id": "2",
+            "name": "MR AПТИПРИМ СИРОП 50МЛ",
+            "price": 10700,
+            "bestBeforeDate": "янв 2026",
+            "manufacturer": "МЕРИМЕД",
+            "img": "https://apteka.uz/upload/iblock/f1e/f1ece8f3bf7e6f87b20bf2e013a79e10.png"
+        },
+        {
+            "id": "3",
+            "name": "АДЖИМЕТРИЛ 20Г ГЕЛ N1",
+            "price": 30720,
+            "bestBeforeDate": "апр 2027",
+            "manufacturer": "АДЖИО",
+            "img": "https://apteka.uz/upload/iblock/172/172c3e29da1a79dd6b54dc5c6d322b99.jpeg"
+        },
+        {
+            "id": "4",
+            "name": "АДРЕНАЛИН 1,8МГ 1 МЛ АМП N10",
+            "price": 19700,
+            "bestBeforeDate": "окт 2025",
+            "manufacturer": "BAYAN MEDICAL",
+            "img": "https://pharmaclick.uz/upload/resize_cache/iblock/259/1500_1500_1a35b42a0a6b3f965a22c6480f3b236ff/olwkk68y0me5959xp9d3jhvfl9c5tb1i.jpg"
+        },
+        {
+            "id": "5",
+            "name": "АКНЕФАСТ 10МГ 8МГ МЛ 20МЛ Р-Р N1",
+            "price": 70640,
+            "bestBeforeDate": "июн 2025",
+            "manufacturer": "JIANGSU CHENPAI BOND PHARMACEUTICAL CHINA"
+        },
+        {
+            "id": "6",
+            "name": "АКРИДОФЕРОН 125МГ  МЛ2МЛ АМП N5",
+            "price": 132770,
+            "bestBeforeDate": "май 2027",
+            "manufacturer": "РОМФАРМ"
+        },
+        {
+            "id": "7",
+            "name": "АЛФЛУТОП АМП 1МЛ №10",
+            "price": 548000,
+            "bestBeforeDate": "июн 2026",
+            "manufacturer": "BIOTEHNOS"
+        },
+        {
+            "id": "8",
+            "name": "АМБРО (АМБРОКСОЛ) 15МГ  5МЛ 100МЛ СИРОП N1",
+            "price": 35400,
+            "bestBeforeDate": "сен 2025",
+            "manufacturer": "ПОЛЬФАРМА"
+        },
+        {
+            "id": "9",
+            "name": "АМОКСИЦИЛЛИН 250МГ КАПС N100",
+            "price": 30970,
+            "bestBeforeDate": "фев 2027",
+            "manufacturer": "NORTH CHINA PHARMACEUTICAL"
+        },
+        {
+            "id": "10",
+            "name": "АМОКСИЦИЛЛИН 500МГ КАПС N100",
+            "price": 52270,
+            "bestBeforeDate": "фев 2027",
+            "manufacturer": "NORTH CHINA PHARMACEUTICAL"
+        },
+        {
+            "id": "11",
+            "name": "АМПИЦИЛЛИН  1.ГР ФЛАКОН N1",
+            "price": 10940,
+            "bestBeforeDate": "янв 2026",
+            "manufacturer": "БИОХИМИК РОССИЯ"
+        },
+        {
+            "id": "12",
+            "name": "АМПИЦИЛЛИНА  0,5 Г ФЛАК N10",
+            "price": 38300,
+            "bestBeforeDate": "апр 2025",
+            "manufacturer": "МЕРРИМЕД ФАРМ"
+        },
+        {
+            "id": "13",
+            "name": "АМПРИЛАН ТАБ 2.5МГ №30",
+            "price": 42080,
+            "bestBeforeDate": "сен 2026",
+            "manufacturer": "KRKA"
+        },
+        {
+            "id": "14",
+            "name": "АНАЛЬГИН 2МЛ АМП N10",
+            "price": 11460,
+            "bestBeforeDate": "апр 2026",
+            "manufacturer": "BAYAN MEDICAL"
+        },
+        {
+            "id": "15",
+            "name": "АНАФЕРОН ТАБ №20",
+            "price": 41120,
+            "bestBeforeDate": "ноя 2027",
+            "manufacturer": "МАТЕРИЯ МЕДИКА"
+        },
+        {
+            "id": "16",
+            "name": "АПКОСУЛ КАПС №100",
+            "price": 27500,
+            "bestBeforeDate": "фев 2026",
+            "manufacturer": "СУРХАН АДЖАНТА ЛИМИТЕД"
+        },
+        {
+            "id": "17",
+            "name": "АСКОРБИНКА  3Г  ТАБ N1",
+            "price": 190,
+            "bestBeforeDate": "ноя 2025",
+            "manufacturer": "КИРА ВИТАФАРМ"
+        },
+        {
+            "id": "18",
+            "name": "АСКОРБИНКА  BUNNY N12 ТАБ N1",
+            "price": 2780,
+            "bestBeforeDate": "апр 2026",
+            "manufacturer": "КИРА ВИТАФАРМ"
+        },
+        {
+            "id": "19",
+            "name": "АСКОРБИНКА CA №8 УПАКОВ N1",
+            "price": 2200,
+            "bestBeforeDate": "июн 2025",
+            "manufacturer": "КИРА ВИТАФАРМ"
+        },
+        {
+            "id": "20",
+            "name": "АСКОРБИНКА №10 ФЛАКОН N1",
+            "price": 7430,
+            "bestBeforeDate": "фев 2026",
+            "manufacturer": "TORNADO"
+        },
+        {
+            "id": "21",
+            "name": "АСКОРБИНКА+CA №12  ТАБ N1",
+            "price": 6500,
+            "bestBeforeDate": "ноя 2025",
+            "manufacturer": "КИРА ВИТАФАРМ"
+        },
+        {
+            "id": "22",
+            "name": "АСКОРБИНКА+CA №4 УПАКОВ N1",
+            "price": 1100,
+            "bestBeforeDate": "июн 2025",
+            "manufacturer": "КИРА ВИТАФАРМ"
+        },
+        {
+            "id": "23",
+            "name": "АСКОРБИНОВАЯ КИСЛОТА ВИТАМИН С 5%  2МЛ АМП N10",
+            "price": 5940,
+            "bestBeforeDate": "ноя 2026",
+            "manufacturer": "ХИТОЙ"
+        },
+        {
+            "id": "24",
+            "name": "АСКОРИЛ СИРОП 100 МЛ",
+            "price": 59390,
+            "bestBeforeDate": "сен 2025",
+            "manufacturer": "GLENMARK"
+        },
+        {
+            "id": "25",
+            "name": "АСКОРУТИН  ТАБ N100",
+            "price": 17700,
+            "bestBeforeDate": "июл 2025",
+            "manufacturer": "ZUNNUR FARM SERVIS"
+        },
+        {
+            "id": "26",
+            "name": "АСФОРМИН 850МГ ТАБ N100",
+            "price": 65700,
+            "bestBeforeDate": "июл 2026",
+            "manufacturer": "АСФАРМА"
+        },
+        {
+            "id": "27",
+            "name": "А-ТИТ ДЛЯ ДЕТЕЙ 30МЛ СПРЕЙ N1",
+            "price": 60070,
+            "bestBeforeDate": "янв 2026",
+            "manufacturer": "КАВС ФАРМ"
+        },
+        {
+            "id": "28",
+            "name": "АТОРИС ТАБ 10МГ №30",
+            "price": 59290,
+            "bestBeforeDate": "окт 2025",
+            "manufacturer": "KRKA"
+        },
+        {
+            "id": "29",
+            "name": "АЦЕТИЛСАЛИЦИЛОВАЯ КИСЛОТА-УБФ 500МГ ТАБ N20",
+            "price": 3940,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "УРАЛБИОФАРМ"
+        },
+        {
+            "id": "30",
+            "name": "АЦИКЛОВИР 200МГ ТАБ N20",
+            "price": 9540,
+            "bestBeforeDate": "ноя 2028",
+            "manufacturer": "СИНТЕЗ"
+        },
+        {
+            "id": "31",
+            "name": "БАЛЬЗАМ ЗОЛОТАЯ ЗВЕЗДА ЗИРОЧКА 4Г  N1",
+            "price": 10780,
+            "bestBeforeDate": "ноя 2028",
+            "manufacturer": "РОССИЯ"
+        },
+        {
+            "id": "32",
+            "name": "БАНАЛГИН  ТАБ N100",
+            "price": 36060,
+            "bestBeforeDate": "июл 2025",
+            "manufacturer": "MIDWAY PHARMACEUTICALS PVT.LTD"
+        },
+        {
+            "id": "33",
+            "name": "БАХИЛЫ №2  N500",
+            "price": 218960,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "САФЕД"
+        },
+        {
+            "id": "34",
+            "name": "БИНТ 7Х14  СТЕРИЛ N1",
+            "price": 2370,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "САРБОНТЕКС"
+        },
+        {
+            "id": "35",
+            "name": "БИНТ СИНТЕТИЧЕСКИЙ РАЗМЕР 3 7,5СМХ360СМ УПАК N1",
+            "price": 67300,
+            "bestBeforeDate": "фев 2026",
+            "manufacturer": "KANGDA"
+        },
+        {
+            "id": "36",
+            "name": "БИНТ СИНТЕТИЧЕСКИЙ РАЗМЕР 3 7,5СМХ360СМ УПАК N1",
+            "price": 67240,
+            "bestBeforeDate": "фев 2026",
+            "manufacturer": "KANGDA"
+        },
+        {
+            "id": "37",
+            "name": "БИНТ СИНТЕТИЧЕСКИЙ СТЕКЛОВОЛОКНО 5СМХ360СМ УПАК N1",
+            "price": 51300,
+            "bestBeforeDate": "фев 2026",
+            "manufacturer": "KANGDA"
+        },
+        {
+            "id": "38",
+            "name": "БИФОЛАК -МАГНИЙ  КАПС N30",
+            "price": 61600,
+            "bestBeforeDate": "фев 2026",
+            "manufacturer": "НЕОМЕД, УЗБЕКИСТАН"
+        },
+        {
+            "id": "39",
+            "name": "БИФОЛАК МАГНИЙ  САШЕ N30",
+            "price": 61600,
+            "bestBeforeDate": "фев 2026",
+            "manufacturer": "УЗБЕКИСТАН"
+        },
+        {
+            "id": "40",
+            "name": "БИФОЛАК НЕО 1,5Г САШЕ N10",
+            "price": 43740,
+            "bestBeforeDate": "мар 2026",
+            "manufacturer": "УЗБЕКИСТАН"
+        },
+        {
+            "id": "41",
+            "name": "БИФОЛАК-АКТИВ   САШЕ N10",
+            "price": 49690,
+            "bestBeforeDate": "фев 2026",
+            "manufacturer": "БИОТАСТ"
+        },
+        {
+            "id": "42",
+            "name": "БИФОЛАК-АКТИВ   САШЕ N10",
+            "price": 58600,
+            "bestBeforeDate": "окт 2025",
+            "manufacturer": "БИОТАСТ"
+        },
+        {
+            "id": "43",
+            "name": "БИФОЛАК-АКТИВ 0,5 КАПС N10",
+            "price": 55700,
+            "bestBeforeDate": "янв 2026",
+            "manufacturer": "NEOMED"
+        },
+        {
+            "id": "44",
+            "name": "БОЛНОЛ  ТАБ N100",
+            "price": 98140,
+            "bestBeforeDate": "сен 2027",
+            "manufacturer": "ISSHAAH"
+        },
+        {
+            "id": "45",
+            "name": "БОЛНОЛ РЕЛАКС ГЕЛЬ 30Г",
+            "price": 29230,
+            "bestBeforeDate": "мар 2027",
+            "manufacturer": "ISSHAN HEALTCARE PVT.LTD"
+        },
+        {
+            "id": "46",
+            "name": "БОРО ПЛЮС ТРАВЯНОЙ 25МЛ КРЕМ N1",
+            "price": 10230,
+            "bestBeforeDate": "окт 2025",
+            "manufacturer": "EAC"
+        },
+        {
+            "id": "47",
+            "name": "БРИЛЛИАНТОВЫЙ ЗЕЛЕНЫЙ 1% 20МЛ ФЛАКОН N1",
+            "price": 3020,
+            "bestBeforeDate": "апр 2026",
+            "manufacturer": "РАДИКС"
+        },
+        {
+            "id": "48",
+            "name": "БРИФЕСЕПТОЛ(БИСЕПТОЛ) 400МГ ТАБ N20",
+            "price": 11840,
+            "bestBeforeDate": "май 2026",
+            "manufacturer": "КОМБИТИК"
+        },
+        {
+            "id": "49",
+            "name": "БРОВЕНСИН 100МЛ СИРОП N1",
+            "price": 43020,
+            "bestBeforeDate": "май 2026",
+            "manufacturer": "WORD MEDICINE"
+        },
+        {
+            "id": "50",
+            "name": "БРОНХО-МУНАЛ П 3.5МГ №10",
+            "price": 120630,
+            "bestBeforeDate": "апр 2028",
+            "manufacturer": "LEK"
+        },
+        {
+            "id": "51",
+            "name": "БУСТИМ-ER 1062,5МГ ТАБ N10",
+            "price": 80480,
+            "bestBeforeDate": "окт 2025",
+            "manufacturer": "SERENA HEALTHCARE INDIA"
+        },
+        {
+            "id": "52",
+            "name": "БУТЫЛКА ДЕТСКАЯ CAMERA 250МЛ  8OZ",
+            "price": 6440,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "ПП"
+        },
+        {
+            "id": "53",
+            "name": "БУТЫЛКА ДЕТСКАЯ  CAMERA   250МЛ  8OZ",
+            "price": 6700,
+            "bestBeforeDate": "янв 2026",
+            "manufacturer": "ПП"
+        },
+        {
+            "id": "54",
+            "name": "ВАЗЕЛИН 100ГР  N1",
+            "price": 7720,
+            "bestBeforeDate": "апр 2027",
+            "manufacturer": "ЭРОН"
+        },
+        {
+            "id": "55",
+            "name": "ВАЗЕЛИН 20Г ТЮБИК N1",
+            "price": 2800,
+            "bestBeforeDate": "дек 2026",
+            "manufacturer": "ДЕНТАФИЛ"
+        },
+        {
+            "id": "56",
+            "name": "ВАЛОДИП 5МГ  160МГ ТАБ N30",
+            "price": 119860,
+            "bestBeforeDate": "авг 2026",
+            "manufacturer": "КРКА, СЛОВЕНИЯ"
+        },
+        {
+            "id": "57",
+            "name": "ВАЛЬСАКОР Н 160МГ\\12.5МГ №28",
+            "price": 104300,
+            "bestBeforeDate": "мар 2027",
+            "manufacturer": "KRKA"
+        },
+        {
+            "id": "58",
+            "name": "ВАМЕЛАН  КАПС N30",
+            "price": 63710,
+            "bestBeforeDate": "сен 2026",
+            "manufacturer": "WORD MEDICINE"
+        },
+        {
+            "id": "59",
+            "name": "ВАМЕЛАН  КАПС N30",
+            "price": 63910,
+            "bestBeforeDate": "сен 2026",
+            "manufacturer": "WORD MEDICINE"
+        },
+        {
+            "id": "60",
+            "name": "ВАТА  250Г НЕСТЕРИЛЬНАЯ",
+            "price": 13600,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "САРБОНТЕКС"
+        },
+        {
+            "id": "61",
+            "name": "ВАТА НЕ СТЕРИЛЬНАЯ 100 Г УПАКОВ N1",
+            "price": 3400,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "GREAT MED-FARM"
+        },
+        {
+            "id": "62",
+            "name": "ВАТА НЕ СТЕРИЛЬНАЯ 20 Г УПАКОВ N1",
+            "price": 1000,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "GREAT MED-FARM"
+        },
+        {
+            "id": "63",
+            "name": "ВАТА НЕСТЕРИЛ 25Г УПАКОВ N1",
+            "price": 1200,
+            "bestBeforeDate": "янв 2025",
+            "manufacturer": "ХОЖИ СУЛАЙМОН ОТА"
+        },
+        {
+            "id": "64",
+            "name": "ВАТА НЕСТЕРИЛ 50Г УПАКОВ N1",
+            "price": 2200,
+            "bestBeforeDate": "янв 2025",
+            "manufacturer": "ХОЖИ СУЛАЙМОН ОТА"
+        },
+        {
+            "id": "65",
+            "name": "ВАТА СТЕРИЛ 250 Г УПАКОВ N1",
+            "price": 15750,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "САРБОНТЕКС"
+        },
+        {
+            "id": "66",
+            "name": "ВАТНЫЕ ПАЛОЧКИ №200 УПАКОВ N1",
+            "price": 9400,
+            "bestBeforeDate": "янв 2026",
+            "manufacturer": "GREEN PAPER"
+        },
+        {
+            "id": "67",
+            "name": "ВЕНОХЕЛП 450  50МГ ТАБ N30",
+            "price": 72370,
+            "bestBeforeDate": "янв 2026",
+            "manufacturer": "ВОРД МЕДИСИНА"
+        },
+        {
+            "id": "68",
+            "name": "ВЕРОШПИРОН 50МГ КАПС N30",
+            "price": 77280,
+            "bestBeforeDate": "сен 2028",
+            "manufacturer": "ГЕДЕОН РИХТЕР, ВЕНГРИЯ"
+        },
+        {
+            "id": "69",
+            "name": "ВЕРОШПИРОН КАПС 100МГ №30",
+            "price": 103040,
+            "bestBeforeDate": "окт 2028",
+            "manufacturer": "GEDEON RICHTER"
+        },
+        {
+            "id": "70",
+            "name": "ВИКРИЙЛ 2 (5МЕТР) №1",
+            "price": 17640,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "MEIYI"
+        },
+        {
+            "id": "71",
+            "name": "ВИТАРИЧ  ТАБ N30",
+            "price": 74310,
+            "bestBeforeDate": "май 2025",
+            "manufacturer": "САГА ЛАБ. ИНДИЯ"
+        },
+        {
+            "id": "72",
+            "name": "ВЛАЖНЫЕ САЛФЕТКИ АССОРТИ №72  N1",
+            "price": 8200,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "РИО ИНТЕРНЭШНЛ, УЗБЕКИСТАН"
+        },
+        {
+            "id": "73",
+            "name": "ВЛАЖНЫЕ САЛФЕТКИ ПАРИС N72 УПАКОВ N1",
+            "price": 7470,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "ПЕРЛА"
+        },
+        {
+            "id": "74",
+            "name": "ВЛАЖНЫЙ САЛФЕТКА №120 ОБ  УПАКОВ N1",
+            "price": 14900,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "RIO"
+        },
+        {
+            "id": "75",
+            "name": "ВЛАЖНЫЙ САЛФЕТКА №72 ОБ  УПАКОВ N1",
+            "price": 9600,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "RIO"
+        },
+        {
+            "id": "76",
+            "name": "ВОБИЛОН КАПС 80МГ №30",
+            "price": 60350,
+            "bestBeforeDate": "июл 2025",
+            "manufacturer": "ADIL"
+        },
+        {
+            "id": "77",
+            "name": "ГЕЛМАДОЛ ТАБ 200МГ №2",
+            "price": 24590,
+            "bestBeforeDate": "сен 2026",
+            "manufacturer": "WORD"
+        },
+        {
+            "id": "78",
+            "name": "ГЕРБИОН СИРОП ИСЛАНДСКОГО МХА 150МЛ",
+            "price": 40350,
+            "bestBeforeDate": "фев 2026",
+            "manufacturer": "KRKA"
+        },
+        {
+            "id": "79",
+            "name": "ГЕРБИОН СИРОП ПЕРВОЦВЕТА 150МЛ",
+            "price": 40350,
+            "bestBeforeDate": "янв 2027",
+            "manufacturer": "KRKA"
+        },
+        {
+            "id": "80",
+            "name": "ГИДРОКОРТИЗОН 0,5% 3 Г МАЗ N1",
+            "price": 6200,
+            "bestBeforeDate": "июл 2026",
+            "manufacturer": "ТАТХИМПФАРМПРЕПАРАТ"
+        },
+        {
+            "id": "81",
+            "name": "ГИДРОКОРТИЗОН 0,5% 3 Г МАЗ N1",
+            "price": 11600,
+            "bestBeforeDate": "июн 2026",
+            "manufacturer": "ТАТХИМПФАРМПРЕПАРАТ"
+        },
+        {
+            "id": "82",
+            "name": "ГЛИСТАГОН ПЛЮС ТАБ N1",
+            "price": 15450,
+            "bestBeforeDate": "авг 2026",
+            "manufacturer": "КОМБИТИК"
+        },
+        {
+            "id": "83",
+            "name": "ГЛЮКОФАЖ-1000МГ №60 ТАБЛ.",
+            "price": 128020,
+            "bestBeforeDate": "май 2026",
+            "manufacturer": "MERCK"
+        },
+        {
+            "id": "84",
+            "name": "ГОНАДОТРОПИН ХОРИОНИЧЕСКИЙ 5000 IU АМП N1",
+            "price": 90160,
+            "bestBeforeDate": "авг 2025",
+            "manufacturer": "ИНДИЯ"
+        },
+        {
+            "id": "85",
+            "name": "ГОНАДОТРОПИН ХОРИОНИЧЕСКИЙ 5000 IU АМП N1",
+            "price": 90160,
+            "bestBeforeDate": "мар 2025",
+            "manufacturer": "ИНДИЯ"
+        },
+        {
+            "id": "86",
+            "name": "ГОНАДОТРОПИН ХОРИОНИЧЕСКИЙ 5000 IU АМП N1",
+            "price": 90160,
+            "bestBeforeDate": "июл 2025",
+            "manufacturer": "ИНДИЯ"
+        },
+        {
+            "id": "87",
+            "name": "ГРАМИДДИН ДЕТСКИЙ   ТАБ N18",
+            "price": 58260,
+            "bestBeforeDate": "янв 2026",
+            "manufacturer": "VALENTA FARMACEFTICA"
+        },
+        {
+            "id": "88",
+            "name": "ГРАМИДДИН ДЕТСКИЙ   ТАБ N18",
+            "price": 59820,
+            "bestBeforeDate": "ноя 2025",
+            "manufacturer": "VALENTA FARMACEFTICA"
+        },
+        {
+            "id": "89",
+            "name": "ГРАМИДДИН НЕО  ТАБ N18",
+            "price": 58550,
+            "bestBeforeDate": "фев 2026",
+            "manufacturer": "VALENTA FARMACEFTICA"
+        },
+        {
+            "id": "90",
+            "name": "ГРАМИДДИН С АНЕСТЕТИКОМ  ТАБ N18",
+            "price": 68240,
+            "bestBeforeDate": "фев 2026",
+            "manufacturer": "VALENTA FARMACEFTICA"
+        },
+        {
+            "id": "91",
+            "name": "ГРИПХОТ ПОР №12",
+            "price": 71500,
+            "bestBeforeDate": "сен 2025",
+            "manufacturer": "АСФАРМА"
+        },
+        {
+            "id": "92",
+            "name": "Д 3-КАПС 2000МЕ КАПС N30",
+            "price": 84600,
+            "bestBeforeDate": "авг 2025",
+            "manufacturer": "MIC"
+        },
+        {
+            "id": "93",
+            "name": "Д3-КАПС 5000МЕ КАПС N30",
+            "price": 86450,
+            "bestBeforeDate": "апр 2026",
+            "manufacturer": "MIC"
+        },
+        {
+            "id": "94",
+            "name": "ДЕКСАМЕТАЗОН Р-Р  8МГ ПО 2МЛ №10(MEHECO)",
+            "price": 6440,
+            "bestBeforeDate": "дек 2025",
+            "manufacturer": "МЕХИКО"
+        },
+        {
+            "id": "95",
+            "name": "ДЕКСАМЕТАЗОН Р-Р  8МГ ПО 2МЛ №10(MEHECO)",
+            "price": 8440,
+            "bestBeforeDate": "дек 2025",
+            "manufacturer": "МЕХИКО"
+        },
+        {
+            "id": "96",
+            "name": "ДЕПАКИН 150 МЛ СИРОП N1",
+            "price": 83800,
+            "bestBeforeDate": "фев 2025",
+            "manufacturer": "САНОФИ АВЕНТИС, ФРАНЦИЯ"
+        },
+        {
+            "id": "97",
+            "name": "ДЕРИЛАЙФ 0.05% КРЕМ 50Г",
+            "price": 75450,
+            "bestBeforeDate": "ноя 2026",
+            "manufacturer": "WORLD MEDICINE"
+        },
+        {
+            "id": "98",
+            "name": "ДИАЗОЛИН ДР 0.5Г №10",
+            "price": 9200,
+            "bestBeforeDate": "авг 2026",
+            "manufacturer": "ФАРМАК, ОАО"
+        },
+        {
+            "id": "99",
+            "name": "ДИАФОРМИН ТАБ 850МГ №60",
+            "price": 58000,
+            "bestBeforeDate": "май 2026",
+            "manufacturer": "ФАРМАК, ОАО"
+        },
+        {
+            "id": "100",
+            "name": "ДИКЛОБЕРЛ РЕТАРД  КАПС N20",
+            "price": 56720,
+            "bestBeforeDate": "окт 2025",
+            "manufacturer": "БЕРЛИН ХЕМЕ"
+        },
+        {
+            "id": "101",
+            "name": "ДИКЛОГЕН  ТАБ N100",
+            "price": 82510,
+            "bestBeforeDate": "апр 2026",
+            "manufacturer": "НИКА ФАРМ"
+        },
+        {
+            "id": "102",
+            "name": "ДИКЛОФЕНАК НАТРИЯ 25МГ  МЛ 3МЛ АМП N10",
+            "price": 12000,
+            "bestBeforeDate": "апр 2026",
+            "manufacturer": "БОРИСОВВСКИЙ"
+        },
+        {
+            "id": "103",
+            "name": "Д-КАЛЬЦИН 75 Г ГРАНУЛ N1",
+            "price": 89130,
+            "bestBeforeDate": "янв 2027",
+            "manufacturer": "WORD MEDICINE"
+        },
+        {
+            "id": "104",
+            "name": "ДОЛГИТ 50Г КРЕМ N1",
+            "price": 38700,
+            "bestBeforeDate": "авг 2026",
+            "manufacturer": "DOLORGIET GMBH"
+        },
+        {
+            "id": "105",
+            "name": "ДОЛГИТ КРЕМ 50Г",
+            "price": 56700,
+            "bestBeforeDate": "авг 2026",
+            "manufacturer": "DOLORGIET GMBH"
+        },
+        {
+            "id": "106",
+            "name": "ДОРАМИЦИН 3000000 №10 ТАБ",
+            "price": 104180,
+            "bestBeforeDate": "янв 2029",
+            "manufacturer": "WORD"
+        },
+        {
+            "id": "107",
+            "name": "ДРАСТОП 200МГ  2МЛ АМП N10",
+            "price": 151770,
+            "bestBeforeDate": "мар 2025",
+            "manufacturer": "WORD MEDICINE"
+        },
+        {
+            "id": "108",
+            "name": "ЕЖЕДНЕВКИ KOTEX АНТИБАКТЕРИАЛ N20  N1",
+            "price": 22700,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "КИМБЕРЛИ КЛАРК, РОССИЯ"
+        },
+        {
+            "id": "109",
+            "name": "ЖИДКОЕ МЫЛО  LIFE 300МЛ  N1",
+            "price": 3670,
+            "bestBeforeDate": "авг 2025",
+            "manufacturer": "УЗБЕКИСТАН"
+        },
+        {
+            "id": "110",
+            "name": "ЖИДКОЕ МЫЛО (МАЯ) 300МЛ  N1",
+            "price": 4890,
+            "bestBeforeDate": "янв 2027",
+            "manufacturer": "УЗБЕКИСТАН"
+        },
+        {
+            "id": "111",
+            "name": "ЗАЖИМ ПУПОЧНЫЙ   N1",
+            "price": 1540,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "HEALTH"
+        },
+        {
+            "id": "112",
+            "name": "ЗАНЖИР МУНЧОК  УПАКОВ N1",
+            "price": 9900,
+            "bestBeforeDate": "янв 2026",
+            "manufacturer": "ХИТОЙ"
+        },
+        {
+            "id": "113",
+            "name": "ЗАНЖИР ПРОСТОЙ   N1",
+            "price": 4600,
+            "bestBeforeDate": "янв 2026",
+            "manufacturer": "ХИТОЙ"
+        },
+        {
+            "id": "114",
+            "name": "ЗАНЖИР ПУРЖИН  УПАКОВ N1",
+            "price": 10600,
+            "bestBeforeDate": "янв 2026",
+            "manufacturer": "ХИТОЙ"
+        },
+        {
+            "id": "115",
+            "name": "ЗЕНИРИТ НЕСТ 30МЛ ФЛАКОН N1",
+            "price": 141680,
+            "bestBeforeDate": "май 2026",
+            "manufacturer": "ANESTPHARMA"
+        },
+        {
+            "id": "116",
+            "name": "ЗЕРКАЛО ГИНЕКОЛОГИЧЕСКОЕ SML №1 РЕГИСТОН",
+            "price": 3300,
+            "bestBeforeDate": "янв 2030",
+            "manufacturer": "HEALTH"
+        },
+        {
+            "id": "117",
+            "name": "ЗИРОМИН 500 МГ ТАБ N3",
+            "price": 46010,
+            "bestBeforeDate": "июн 2028",
+            "manufacturer": "WORD MEDICINE"
+        },
+        {
+            "id": "118",
+            "name": "ЗОНД  FEEDING TUBE  6 УПАКОВ N1",
+            "price": 5200,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "ГЕРМАНИЯ"
+        },
+        {
+            "id": "119",
+            "name": "ЗУБОГРЫЗ  УПАКОВ N1",
+            "price": 7080,
+            "bestBeforeDate": "янв 2027",
+            "manufacturer": "FISH"
+        },
+        {
+            "id": "120",
+            "name": "ИБУПРОФЕН ТАБ 200МГ №50",
+            "price": 7500,
+            "bestBeforeDate": "апр 2027",
+            "manufacturer": "БОРИСОВСКИЙ"
+        },
+        {
+            "id": "121",
+            "name": "ИБУПРОФЕН ТАБ 200МГ №50",
+            "price": 7680,
+            "bestBeforeDate": "мар 2027",
+            "manufacturer": "БОРИСОВСКИЙ"
+        },
+        {
+            "id": "122",
+            "name": "ИБУПРОФЕН-АКОС 400МГ ТАБ N20",
+            "price": 12310,
+            "bestBeforeDate": "апр 2027",
+            "manufacturer": "СИНТЕЗ"
+        },
+        {
+            "id": "123",
+            "name": "ИБУФЕН Д СУСП 120МЛ",
+            "price": 52610,
+            "bestBeforeDate": "июн 2027",
+            "manufacturer": "ПОЛЬФАРМА"
+        },
+        {
+            "id": "124",
+            "name": "ИБУФЕН ФОРТЕ 100МЛ СУСП N1",
+            "price": 57910,
+            "bestBeforeDate": "мар 2025",
+            "manufacturer": "POLPHARMA"
+        },
+        {
+            "id": "125",
+            "name": "ИБУФЕН ФОРТЕ 100МЛ СУСП N1",
+            "price": 57910,
+            "bestBeforeDate": "янв 2026",
+            "manufacturer": "POLPHARMA"
+        },
+        {
+            "id": "126",
+            "name": "ИГЛА ДЛЯ СПИНАЛЬНОЕ ТИП 25  №1",
+            "price": 7470,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "MEIYI"
+        },
+        {
+            "id": "127",
+            "name": "ИЗОТОНИК (НАТРИЯ ХЛОР) 0,9% 100МЛ Р-РА N1",
+            "price": 5910,
+            "bestBeforeDate": "май 2026",
+            "manufacturer": "РАДИКС, УЗБЕКИСТАН"
+        },
+        {
+            "id": "128",
+            "name": "ИМУДОН ТАБ №40",
+            "price": 124940,
+            "bestBeforeDate": "мар 2026",
+            "manufacturer": "SOLVAY PHARMA"
+        },
+        {
+            "id": "129",
+            "name": "ИНОСЕДА 500МГ ТАБ N20",
+            "price": 85300,
+            "bestBeforeDate": "июл 2025",
+            "manufacturer": "WORD MEDICINE"
+        },
+        {
+            "id": "130",
+            "name": "ИНОСЕДА 500МГ ТАБ N20",
+            "price": 66690,
+            "bestBeforeDate": "мар 2025",
+            "manufacturer": "WORD MEDICINE"
+        },
+        {
+            "id": "131",
+            "name": "ЙОДОФОЛ  ТАБ N60",
+            "price": 96730,
+            "bestBeforeDate": "окт 2026",
+            "manufacturer": "WORD MEDICINE"
+        },
+        {
+            "id": "132",
+            "name": "КАЛГЕЛЬ 10 Г  N1",
+            "price": 30070,
+            "bestBeforeDate": "фев 2027",
+            "manufacturer": "GSK"
+        },
+        {
+            "id": "133",
+            "name": "КАЛЬЦИЙ Д3 СУПЕР ТАБ. №50",
+            "price": 33200,
+            "bestBeforeDate": "дек 2024",
+            "manufacturer": "ДОРА"
+        },
+        {
+            "id": "134",
+            "name": "КАЛЬЦИФОРТ  КАПС N50",
+            "price": 51600,
+            "bestBeforeDate": "июн 2025",
+            "manufacturer": "FORMULIFE"
+        },
+        {
+            "id": "135",
+            "name": "КАНЕФРОН Н ДР №60",
+            "price": 123450,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "BIONORICA"
+        },
+        {
+            "id": "136",
+            "name": "КАНЕФРОН-Н КАПЛИ 100МЛ",
+            "price": 121880,
+            "bestBeforeDate": "янв 2026",
+            "manufacturer": "BIONORICA"
+        },
+        {
+            "id": "137",
+            "name": "КАРОВЕЛ 1Г 5МЛ АМП N5",
+            "price": 103100,
+            "bestBeforeDate": "фев 2025",
+            "manufacturer": "РОТАФАРМ"
+        },
+        {
+            "id": "138",
+            "name": "КАРСИЛ ТАБ №80",
+            "price": 58790,
+            "bestBeforeDate": "апр 2026",
+            "manufacturer": "SOFARMA"
+        },
+        {
+            "id": "139",
+            "name": "КАТЕТЕР ФОЛЕЯ 16 №1",
+            "price": 8370,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "ТБФ"
+        },
+        {
+            "id": "140",
+            "name": "КАТЕТЕР ФОЛЕЯ 18 №1",
+            "price": 8370,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "БЕРОМЕД, ГЕРМАНИЯ"
+        },
+        {
+            "id": "141",
+            "name": "КАТЕТЕР-БАБОЧКА 23G  N1",
+            "price": 745,
+            "bestBeforeDate": "янв 2029",
+            "manufacturer": "KDM"
+        },
+        {
+            "id": "142",
+            "name": "КЕНАЛОГ 40МГ  1МЛ АМПУЛА N5",
+            "price": 155540,
+            "bestBeforeDate": "янв 2027",
+            "manufacturer": "KRKA"
+        },
+        {
+            "id": "143",
+            "name": "КЕТОНАЛ АКТИВ ПЛЮС 50МГ САШЕ N12",
+            "price": 43800,
+            "bestBeforeDate": "июн 2025",
+            "manufacturer": "САНДОЗ"
+        },
+        {
+            "id": "144",
+            "name": "КЕТОНАЛ ФОРТЕ 100МГ №20",
+            "price": 38400,
+            "bestBeforeDate": "мар 2028",
+            "manufacturer": "LEK"
+        },
+        {
+            "id": "145",
+            "name": "КЛЕКСАН 6000 АНТИ-ХА МЕ  0,6МЛ ШПРИЦ N2",
+            "price": 159380,
+            "bestBeforeDate": "май 2026",
+            "manufacturer": "САНОФИ АВЕНТИС, ФРАНЦИЯ"
+        },
+        {
+            "id": "146",
+            "name": "КЛОВЕЙТ 0,05% 25 Г  КРЕМ N1",
+            "price": 46900,
+            "bestBeforeDate": "авг 2026",
+            "manufacturer": "JELFA"
+        },
+        {
+            "id": "147",
+            "name": "КЛОВЕЙТ 25 Г МАЗЬ N1",
+            "price": 57500,
+            "bestBeforeDate": "окт 2025",
+            "manufacturer": "ЖЕЛФА"
+        },
+        {
+            "id": "148",
+            "name": "КЛОДИФЕН  45Г ГЕЛЬ N1",
+            "price": 40480,
+            "bestBeforeDate": "мар 2026",
+            "manufacturer": "WORD MEDICINE"
+        },
+        {
+            "id": "149",
+            "name": "КЛОДИФЕН  45Г ГЕЛЬ N1",
+            "price": 40000,
+            "bestBeforeDate": "мар 2026",
+            "manufacturer": "WORD MEDICINE"
+        },
+        {
+            "id": "150",
+            "name": "КЛОДИФЕН  45Г ГЕЛЬ N1",
+            "price": 42530,
+            "bestBeforeDate": "фев 2027",
+            "manufacturer": "WORD MEDICINE"
+        },
+        {
+            "id": "151",
+            "name": "КЛОДИФЕН АМПУЛА 75МГ  3МЛ",
+            "price": 51310,
+            "bestBeforeDate": "ноя 2026",
+            "manufacturer": "WORD MEDICINE"
+        },
+        {
+            "id": "152",
+            "name": "КЛОСАН 300МГ ТАБ N30",
+            "price": 223920,
+            "bestBeforeDate": "янв 2027",
+            "manufacturer": "CHIA TAI TIANQING PHARMACEUTICAL GROUP CO LTD"
+        },
+        {
+            "id": "153",
+            "name": "КОКАРНИТ  10МГ  2МЛ АМП N3",
+            "price": 98700,
+            "bestBeforeDate": "окт 2025",
+            "manufacturer": "WORD MEDICINE"
+        },
+        {
+            "id": "154",
+            "name": "КОМЕЗО - 20 20МГ КАПС N30",
+            "price": 13790,
+            "bestBeforeDate": "июн 2025",
+            "manufacturer": "КАРАН"
+        },
+        {
+            "id": "155",
+            "name": "КОМОМЕС 20МГ КАПСУЛ N30",
+            "price": 14810,
+            "bestBeforeDate": "авг 2026",
+            "manufacturer": "КОМБИТИК ГЛОБАЛ КАПЛЕТ, ИНДИЯ"
+        },
+        {
+            "id": "156",
+            "name": "КОНВУЛЕКС 300 МГ. ТАБ №50",
+            "price": 211700,
+            "bestBeforeDate": "апр 2028",
+            "manufacturer": "GEROT"
+        },
+        {
+            "id": "157",
+            "name": "КОРВИТИН 0,5Г ФЛАКОН N1",
+            "price": 144900,
+            "bestBeforeDate": "сен 2025",
+            "manufacturer": "БОРШАГОВСКИЙ"
+        },
+        {
+            "id": "158",
+            "name": "КОРЕГА ОБ 40Г УПАКОВ N1",
+            "price": 64440,
+            "bestBeforeDate": "мар 2026",
+            "manufacturer": "ГСК"
+        },
+        {
+            "id": "159",
+            "name": "КОРЕГА ОБ 40Г УПАКОВ N1",
+            "price": 64500,
+            "bestBeforeDate": "окт 2025",
+            "manufacturer": "ГСК"
+        },
+        {
+            "id": "160",
+            "name": "КОРЕГА ЭКСТРА СИЛА 40Г УПАКОВ N1",
+            "price": 65680,
+            "bestBeforeDate": "апр 2026",
+            "manufacturer": "ГСК"
+        },
+        {
+            "id": "161",
+            "name": "КОРТЕКСИН-10МЛ №10",
+            "price": 339820,
+            "bestBeforeDate": "авг 2025",
+            "manufacturer": "ГЕРОФАРМ, ООО"
+        },
+        {
+            "id": "162",
+            "name": "КОРФЛАМ-ВИНКРО  ТАБ N100",
+            "price": 55200,
+            "bestBeforeDate": "окт 2026",
+            "manufacturer": "ИНДИЯ"
+        },
+        {
+            "id": "163",
+            "name": "КРЕМ ДЕТСКИЙ  50Г УПАКОВ N1",
+            "price": 23700,
+            "bestBeforeDate": "окт 2025",
+            "manufacturer": "ДЖОНСОН&ДЖОНСОН, ГЕРМАНИЯ"
+        },
+        {
+            "id": "164",
+            "name": "КРЕМ ДЕТСКИЙ АЛИСА 40 Г УПАКОВ N1",
+            "price": 15110,
+            "bestBeforeDate": "апр 2026",
+            "manufacturer": "СВОБОДА"
+        },
+        {
+            "id": "165",
+            "name": "КРЕМ ТИК ТАК 41 Г  УПАКОВ N1",
+            "price": 15260,
+            "bestBeforeDate": "июн 2026",
+            "manufacturer": "ЗЕЛЕНАЯ АПТЕКА"
+        },
+        {
+            "id": "166",
+            "name": "КУКУРУЗНЫЕ РЫЛЬЦА 2Г 15ПК N1",
+            "price": 4700,
+            "bestBeforeDate": "авг 2026",
+            "manufacturer": "БУРГУТ ФАРМ УЗБ"
+        },
+        {
+            "id": "167",
+            "name": "КУКУРУЗЫ С РЫЛЬЦАМИ №18 2Г УПАКОВ N1",
+            "price": 6000,
+            "bestBeforeDate": "апр 2025",
+            "manufacturer": "ЗИЁНУР НУР ФАРМ"
+        },
+        {
+            "id": "168",
+            "name": "КЮПЕН №100 ТАБ. (ДОЛЕКС)",
+            "price": 65360,
+            "bestBeforeDate": "июл 2026",
+            "manufacturer": "AVISON"
+        },
+        {
+            "id": "169",
+            "name": "КЮПЕН №100 ТАБ. (ДОЛЕКС)",
+            "price": 65630,
+            "bestBeforeDate": "июл 2026",
+            "manufacturer": "AVISON"
+        },
+        {
+            "id": "170",
+            "name": "КЮПЕН ГЕЛ 20Г",
+            "price": 37770,
+            "bestBeforeDate": "авг 2026",
+            "manufacturer": "AVISON"
+        },
+        {
+            "id": "171",
+            "name": "ЛАЗОЛВАН  15МГ  5МЛ 100МЛ СИРОП  N1",
+            "price": 57800,
+            "bestBeforeDate": "ноя 2025",
+            "manufacturer": "SANOFI"
+        },
+        {
+            "id": "172",
+            "name": "ЛАЦИДОФОРТЕ  КАПС N10",
+            "price": 49340,
+            "bestBeforeDate": "окт 2025",
+            "manufacturer": "WORLD MEDECINE"
+        },
+        {
+            "id": "173",
+            "name": "ЛЕВОФЕВ 500МГ ТАБ N5",
+            "price": 33610,
+            "bestBeforeDate": "июн 2026",
+            "manufacturer": "ISSHAAH"
+        },
+        {
+            "id": "174",
+            "name": "ЛЕВОФЛОКСАЦИН 250МГ №10",
+            "price": 8000,
+            "bestBeforeDate": "окт 2024",
+            "manufacturer": "РАДИКС"
+        },
+        {
+            "id": "175",
+            "name": "ЛЕВОФЛОКСАЦИН 5МГ 100 МЛ Р-Р N1",
+            "price": 33280,
+            "bestBeforeDate": "мар 2027",
+            "manufacturer": "БЛЕМЕДПРЕПАРАТЫ"
+        },
+        {
+            "id": "176",
+            "name": "ЛЕЙКОПЛАСТЕР 2,5*500СМ УПАКОВ N12",
+            "price": 52550,
+            "bestBeforeDate": "мар 2027",
+            "manufacturer": "OWN AID"
+        },
+        {
+            "id": "177",
+            "name": "ЛЕЙКОПЛАСТЕР 3*500СМ УПАКОВ N12",
+            "price": 77280,
+            "bestBeforeDate": "янв 2027",
+            "manufacturer": "OWN AID"
+        },
+        {
+            "id": "178",
+            "name": "ЛЕЙКОПЛАСТЕР 4*500СМ УПАКОВ N6",
+            "price": 49450,
+            "bestBeforeDate": "мар 2027",
+            "manufacturer": "OWN AID"
+        },
+        {
+            "id": "179",
+            "name": "ЛЕЙКОПЛАСТЕР 5М*5СМ УПАКОВ N1",
+            "price": 12840,
+            "bestBeforeDate": "ноя 2027",
+            "manufacturer": "MASTERPLASTERGROUP"
+        },
+        {
+            "id": "180",
+            "name": "ЛЕЙКОПЛАСТЫРЬ РУЛОННЫЙ 1Х500СМ  N1",
+            "price": 1000,
+            "bestBeforeDate": "ноя 2023",
+            "manufacturer": "AFFLATUS LAB"
+        },
+        {
+            "id": "181",
+            "name": "ЛЕЙКОППЛАСТЫРЬ БУМАЖНЫЙ 5М 500СМ УПАКОВ N1",
+            "price": 12300,
+            "bestBeforeDate": "ноя 2027",
+            "manufacturer": "MASTER"
+        },
+        {
+            "id": "182",
+            "name": "ЛЕКНИКС ПЛЮС  КАПС N16",
+            "price": 19960,
+            "bestBeforeDate": "авг 2025",
+            "manufacturer": "GOD GIFT LAB, ИНДИЯ"
+        },
+        {
+            "id": "183",
+            "name": "ЛЕТФИКСИМ  200МГ ТАБ N10",
+            "price": 46400,
+            "bestBeforeDate": "сен 2026",
+            "manufacturer": "КОМБИТИК"
+        },
+        {
+            "id": "184",
+            "name": "ЛИНЕКС КАПС.№16",
+            "price": 39360,
+            "bestBeforeDate": "авг 2025",
+            "manufacturer": "ЛЕК"
+        },
+        {
+            "id": "185",
+            "name": "ЛИНЕКС КАПС.№16",
+            "price": 40220,
+            "bestBeforeDate": "май 2025",
+            "manufacturer": "ЛЕК"
+        },
+        {
+            "id": "186",
+            "name": "ЛОКСИДОЛ  15МГ СУПП N6",
+            "price": 61930,
+            "bestBeforeDate": "сен 2026",
+            "manufacturer": "WORD MEDICINE"
+        },
+        {
+            "id": "187",
+            "name": "ЛОКСИДОЛ 1,5 МЛ АМП N3",
+            "price": 43580,
+            "bestBeforeDate": "май 2026",
+            "manufacturer": "WORD MEDICINE"
+        },
+        {
+            "id": "188",
+            "name": "ЛОКСИДОЛ 1,5 МЛ АМП N3",
+            "price": 43310,
+            "bestBeforeDate": "май 2026",
+            "manufacturer": "WORD MEDICINE"
+        },
+        {
+            "id": "189",
+            "name": "ЛОПЕРАМИДА ГИДРОХЛОРИД 2МГ КАПС N20",
+            "price": 7650,
+            "bestBeforeDate": "янв 2027",
+            "manufacturer": "БОРИСОВВСКИЙ"
+        },
+        {
+            "id": "190",
+            "name": "ЛОРАТАЛ 10МГ ТАБ №10",
+            "price": 27950,
+            "bestBeforeDate": "мар 2029",
+            "manufacturer": "НОБЕЛЬ-ФАРМСАНОАТ"
+        },
+        {
+            "id": "191",
+            "name": "ЛОРТЕНЗА 100МГ  5МГ ТАБ N30",
+            "price": 106320,
+            "bestBeforeDate": "окт 2026",
+            "manufacturer": "KRKA"
+        },
+        {
+            "id": "192",
+            "name": "МАРЛЯ  1 М УПАКОВ N1",
+            "price": 2100,
+            "bestBeforeDate": "янв 2027",
+            "manufacturer": "САРБОНТЕКС"
+        },
+        {
+            "id": "193",
+            "name": "МАРЛЯ 2М УПАКОВ N1",
+            "price": 4200,
+            "bestBeforeDate": "янв 2027",
+            "manufacturer": "САРБОНТЕКС"
+        },
+        {
+            "id": "194",
+            "name": "МАРЛЯ 90СМ* 5М УПАКОВ N1",
+            "price": 10490,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "САРБОНТЕКС"
+        },
+        {
+            "id": "195",
+            "name": "МАРЛЯ ОТБЕЛ МЕД 10М*84СМ УПАКОВ N1",
+            "price": 21000,
+            "bestBeforeDate": "янв 2027",
+            "manufacturer": "САРБОНТЕКС, УЗБЕКИСТАН"
+        },
+        {
+            "id": "196",
+            "name": "МАСКА  ЛИЦЕВАЯ WHITE УПАКОВ N50",
+            "price": 25760,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "WHITE HEALITY"
+        },
+        {
+            "id": "197",
+            "name": "МАСЛО ДЕТСКОЕ ДЖОНСОНС  125МЛ УПАКОВ N1",
+            "price": 30260,
+            "bestBeforeDate": "фев 2026",
+            "manufacturer": "ДЖОНСОН ВАДЖОНСОН"
+        },
+        {
+            "id": "198",
+            "name": "МАСЛО ДЕТСКОЕ ДЖОНСОНС 50МЛ УПАКОВ N1",
+            "price": 18670,
+            "bestBeforeDate": "мар 2026",
+            "manufacturer": "ДЖОНСОН ВАДЖОНСОН"
+        },
+        {
+            "id": "199",
+            "name": "МЕНОВАЗИН 40МЛ Р-Р N1",
+            "price": 2310,
+            "bestBeforeDate": "ноя 2024",
+            "manufacturer": "РАНО"
+        },
+        {
+            "id": "200",
+            "name": "МЕТОСТИЛ МЕР  СУПП N5",
+            "price": 28740,
+            "bestBeforeDate": "июн 2025",
+            "manufacturer": "МЕРИММЕД"
+        },
+        {
+            "id": "201",
+            "name": "МЕТРИД 100 МЛ Р-РА N1",
+            "price": 16000,
+            "bestBeforeDate": "сен 2026",
+            "manufacturer": "OTSUKA"
+        },
+        {
+            "id": "202",
+            "name": "МЕТРОГИЛ Р-Р Д  ИНФ 100МЛ",
+            "price": 9580,
+            "bestBeforeDate": "фев 2027",
+            "manufacturer": "UNIQUE PHARMACEUTICAL LABORATORIES"
+        },
+        {
+            "id": "203",
+            "name": "МИДОКАЛМ 1 МЛ АМП N5",
+            "price": 115000,
+            "bestBeforeDate": "июн 2026",
+            "manufacturer": "ГЕДЕОН РИХТЕР, ВЕНГРИЯ"
+        },
+        {
+            "id": "204",
+            "name": "МИНДАЛЬНОЕ МАСЛО (ГОРЬКОГО) 100МЛ  N1",
+            "price": 9270,
+            "bestBeforeDate": "июн 2026",
+            "manufacturer": "ФОРТУНА УРГУТ"
+        },
+        {
+            "id": "205",
+            "name": "МИНОКСИДИЛ 60МЛ Р-Р N6",
+            "price": 579600,
+            "bestBeforeDate": "янв 2025",
+            "manufacturer": "ИСРОИЛ"
+        },
+        {
+            "id": "206",
+            "name": "МОЧА ПРИЁМНИК 2000 МЛ УПАКОВ N1",
+            "price": 6440,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "TBF"
+        },
+        {
+            "id": "207",
+            "name": "МУКАЛТИН 50МГ ТАБ N10",
+            "price": 2700,
+            "bestBeforeDate": "янв 2026",
+            "manufacturer": "ИРБИТСКИЙ Х.Ф.З."
+        },
+        {
+            "id": "208",
+            "name": "МУСКОМЕД КАП 4МГ №20",
+            "price": 84200,
+            "bestBeforeDate": "июл 2025",
+            "manufacturer": "WORLD MEDICINE"
+        },
+        {
+            "id": "209",
+            "name": "МЫЛО ДЕТ JOHNSON'S BABY SOAP 100Г УПАКОВ N1",
+            "price": 10940,
+            "bestBeforeDate": "фев 2026",
+            "manufacturer": "ЖОНСОН БЕБИ"
+        },
+        {
+            "id": "210",
+            "name": "МЫЛО ДЛЯ ДУША DURU 150Г УПАК N1",
+            "price": 7720,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "ТУРКИЯ"
+        },
+        {
+            "id": "211",
+            "name": "МЫЛО ДЛЯ ДУША ЛЕМОН 100Г УПАК N1",
+            "price": 7720,
+            "bestBeforeDate": "янв 2029",
+            "manufacturer": "ТУРКИЯ"
+        },
+        {
+            "id": "212",
+            "name": "НАЗОФЕРОН 0.1%.5МЛ СПРЕЙ",
+            "price": 70710,
+            "bestBeforeDate": "апр 2026",
+            "manufacturer": "ФАРМАК"
+        },
+        {
+            "id": "213",
+            "name": "НАЗОФЕРОН НАЗ. КАПЛИ 5МЛ",
+            "price": 65120,
+            "bestBeforeDate": "авг 2026",
+            "manufacturer": "ФАРМАК"
+        },
+        {
+            "id": "214",
+            "name": "НАПРОФФ 550МГ №10",
+            "price": 34610,
+            "bestBeforeDate": "сен 2027",
+            "manufacturer": "УОРЛД МЕДИЦИН ИЛАЧ САН.ВЕ ТИДЖ. А.Ш"
+        },
+        {
+            "id": "215",
+            "name": "НАПРОФФ ГЕЛЬ 10% 45Г",
+            "price": 54240,
+            "bestBeforeDate": "мар 2026",
+            "manufacturer": "БРИТАИН"
+        },
+        {
+            "id": "216",
+            "name": "НАСТОЙКА БОЯРИШНИКА 25МЛ Р-Р N1",
+            "price": 2200,
+            "bestBeforeDate": "фев 2027",
+            "manufacturer": "ЗИЁНУР НУР ФАРМ"
+        },
+        {
+            "id": "217",
+            "name": "НАТРИЯ ХЛОР 100 МЛ Р-РА N1",
+            "price": 5860,
+            "bestBeforeDate": "апр 2027",
+            "manufacturer": "ДЕНТАФИЛ"
+        },
+        {
+            "id": "218",
+            "name": "НАТРИЯ ХЛОРИД  МР 0,9% 250МЛ Р-Р N1",
+            "price": 9100,
+            "bestBeforeDate": "ноя 2026",
+            "manufacturer": "МЕРРИ МЕД"
+        },
+        {
+            "id": "219",
+            "name": "НАТРИЯ ХЛОРИД 0,9% 100МЛ Р-Р N1",
+            "price": 7540,
+            "bestBeforeDate": "апр 2026",
+            "manufacturer": "SOFT INTER MEDICAL"
+        },
+        {
+            "id": "220",
+            "name": "НАТРИЯ ХЛОРИД 0.9%  250МЛ Р-Р N1",
+            "price": 11000,
+            "bestBeforeDate": "мар 2027",
+            "manufacturer": "ЖУРАБЕК"
+        },
+        {
+            "id": "221",
+            "name": "НАТРИЯ ХЛОРИД 0.9% 100МЛ",
+            "price": 6200,
+            "bestBeforeDate": "июн 2027",
+            "manufacturer": "SEE MEDICAL"
+        },
+        {
+            "id": "222",
+            "name": "НАТРИЯ ХЛОРИД 500 МЛ Р-РА N1",
+            "price": 16900,
+            "bestBeforeDate": "янв 2027",
+            "manufacturer": "ДЖУРАБЕК, УЗБЕКИСТАН"
+        },
+        {
+            "id": "223",
+            "name": "НАТРИЯ ХЛОРИД 500 МЛ Р-РА N1",
+            "price": 10750,
+            "bestBeforeDate": "июл 2027",
+            "manufacturer": "ДЖУРАБЕК, УЗБЕКИСТАН"
+        },
+        {
+            "id": "224",
+            "name": "НАТРИЯ ХЛОРИД 500МЛ Р-Р N1",
+            "price": 9420,
+            "bestBeforeDate": "июл 2027",
+            "manufacturer": "ДЕНТАФИЛ"
+        },
+        {
+            "id": "225",
+            "name": "НИЖАГРА 100МГ ТАБ N4",
+            "price": 12880,
+            "bestBeforeDate": "июл 2025",
+            "manufacturer": "КОМБИТИК"
+        },
+        {
+            "id": "226",
+            "name": "НИЖАГРА ЛОНГ ЛАСТ 100  60МГ ТАБ N4",
+            "price": 16100,
+            "bestBeforeDate": "июл 2025",
+            "manufacturer": "КОМБИТИК"
+        },
+        {
+            "id": "227",
+            "name": "НИМЕСИЛ ПОР №30",
+            "price": 103040,
+            "bestBeforeDate": "фев 2027",
+            "manufacturer": "LABORATORI GUIDOTTI S.P.A."
+        },
+        {
+            "id": "228",
+            "name": "НИМЕФАСТ (НИМЕСУЛИД) 100МГ САШЕ N30",
+            "price": 81900,
+            "bestBeforeDate": "дек 2025",
+            "manufacturer": "АДЖИО"
+        },
+        {
+            "id": "229",
+            "name": "НИПЕРТЕН ТАБ 10МГ №30",
+            "price": 68810,
+            "bestBeforeDate": "апр 2028",
+            "manufacturer": "KRKA"
+        },
+        {
+            "id": "230",
+            "name": "НИПЕРТЕН ТАБ 10МГ №30",
+            "price": 62800,
+            "bestBeforeDate": "июн 2027",
+            "manufacturer": "KRKA"
+        },
+        {
+            "id": "231",
+            "name": "НИСТАТИН 500000 ЕД ТАБ N20",
+            "price": 12880,
+            "bestBeforeDate": "фев 2026",
+            "manufacturer": "БИОСИНТЕЗ"
+        },
+        {
+            "id": "232",
+            "name": "НОВО ПАССИТ 100МЛ СИРОП N1",
+            "price": 58620,
+            "bestBeforeDate": "сен 2027",
+            "manufacturer": "ТЕВА, ЧЕХИЯ"
+        },
+        {
+            "id": "233",
+            "name": "НОВОКАИН 0,5%  5МЛ АМП N10",
+            "price": 5100,
+            "bestBeforeDate": "апр 2026",
+            "manufacturer": "BAYAN MEDICAL"
+        },
+        {
+            "id": "234",
+            "name": "НОВОКАИН 0.5% 5МЛ №10",
+            "price": 6200,
+            "bestBeforeDate": "мар 2026",
+            "manufacturer": "ДЖУРАБЕК"
+        },
+        {
+            "id": "235",
+            "name": "НОЛИЦИН 400МГ ТАБ N20",
+            "price": 68300,
+            "bestBeforeDate": "сен 2028",
+            "manufacturer": "KRKA"
+        },
+        {
+            "id": "236",
+            "name": "НОРМОДОКС  ТАБ N30",
+            "price": 103380,
+            "bestBeforeDate": "авг 2026",
+            "manufacturer": "ЛАФЗ"
+        },
+        {
+            "id": "237",
+            "name": "НОСОЧИСТКА ФИШ УПАКОВ N1",
+            "price": 18670,
+            "bestBeforeDate": "янв 2027",
+            "manufacturer": "ХИТОЙ"
+        },
+        {
+            "id": "238",
+            "name": "НО-ШПА АМП 40МГ  2МЛ №25",
+            "price": 132870,
+            "bestBeforeDate": "авг 2026",
+            "manufacturer": "КИЕВМЕДПРЕПАРАТЫ, АО"
+        },
+        {
+            "id": "239",
+            "name": "НУКЛЕО Ц.М.Ф ФОРТЕ 3МЛ АМП N3",
+            "price": 173880,
+            "bestBeforeDate": "окт 2025",
+            "manufacturer": "FERRER INTERNACIONAL S.A."
+        },
+        {
+            "id": "240",
+            "name": "НУКЛЕО ЦМФ ФОРТЕ КАПС №30",
+            "price": 180320,
+            "bestBeforeDate": "сен 2025",
+            "manufacturer": "FERRER INTERNATIONAL S.A."
+        },
+        {
+            "id": "241",
+            "name": "ОБЛЕПИХОВОЕ  50МЛ МАСЛО N1",
+            "price": 6440,
+            "bestBeforeDate": "июл 2026",
+            "manufacturer": "ФОРТУНА УРГУТ"
+        },
+        {
+            "id": "242",
+            "name": "ОКСИТОЦИН МЕР 1МЛ АМП N10",
+            "price": 9000,
+            "bestBeforeDate": "июн 2025",
+            "manufacturer": "МЕРРИМЕД"
+        },
+        {
+            "id": "243",
+            "name": "ОЛИВКОВОЕ МАСЛО 100МЛ  N1",
+            "price": 9270,
+            "bestBeforeDate": "июн 2026",
+            "manufacturer": "УЗБЕКИСТАН"
+        },
+        {
+            "id": "244",
+            "name": "ОМЕГА 3-МИК  КАПС N50",
+            "price": 70300,
+            "bestBeforeDate": "ноя 2025",
+            "manufacturer": "MINSKINTRAPS"
+        },
+        {
+            "id": "245",
+            "name": "ОРСА  250 МЛ Р-РА N1",
+            "price": 15700,
+            "bestBeforeDate": "июн 2026",
+            "manufacturer": "ДЖУРАБЕК"
+        },
+        {
+            "id": "246",
+            "name": "ОРЦИПОЛ 500  500МГ №10 ТАБ",
+            "price": 86010,
+            "bestBeforeDate": "июл 2026",
+            "manufacturer": "WORD"
+        },
+        {
+            "id": "247",
+            "name": "ОСТЕОГЕНОН  ТАБ N40",
+            "price": 237890,
+            "bestBeforeDate": "окт 2027",
+            "manufacturer": "ПЬЕР ФАБР"
+        },
+        {
+            "id": "248",
+            "name": "ОСФОРТИН 75Г ГРАНУЛ N1",
+            "price": 76900,
+            "bestBeforeDate": "июн 2025",
+            "manufacturer": "ВОРД МЕДИСИНА"
+        },
+        {
+            "id": "249",
+            "name": "ОТРИВИН 0,1 % 10 МЛ СПРЕЙ N1",
+            "price": 45340,
+            "bestBeforeDate": "авг 2026",
+            "manufacturer": "NOVARTIS"
+        },
+        {
+            "id": "250",
+            "name": "ОТРИВИН 0,1 % 10 МЛ СПРЕЙ N1",
+            "price": 50500,
+            "bestBeforeDate": "июл 2026",
+            "manufacturer": "NOVARTIS"
+        },
+        {
+            "id": "251",
+            "name": "ОФЛОМЕЛИД 30ГР МАЗЬ",
+            "price": 82430,
+            "bestBeforeDate": "ноя 2027",
+            "manufacturer": "СИНТЕЗ"
+        },
+        {
+            "id": "252",
+            "name": "ОФТАГЕЛЬ 2,5МГ  Г ГЛ 10Г ГЕЛЬ N1",
+            "price": 57980,
+            "bestBeforeDate": "авг 2026",
+            "manufacturer": "САНТЕН, ФИНЛЯНДИЯ"
+        },
+        {
+            "id": "253",
+            "name": "ПАВИСИМЕР  СУПП N5",
+            "price": 38100,
+            "bestBeforeDate": "июл 2025",
+            "manufacturer": "МЕРРИМЕД ФАРМ"
+        },
+        {
+            "id": "254",
+            "name": "ПАМАДА БЕЗЦВЕТ АЛОЕ   N1",
+            "price": 3860,
+            "bestBeforeDate": "янв 2027",
+            "manufacturer": "КИТАЙ"
+        },
+        {
+            "id": "255",
+            "name": "ПАМПЕРС  РАЗМЕР 1 УПАКОВ N60",
+            "price": 101370,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "EVE BABY"
+        },
+        {
+            "id": "256",
+            "name": "ПАМПЕРС  РАЗМЕР 3 УПАКОВ N64",
+            "price": 137950,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "EVE BABY"
+        },
+        {
+            "id": "257",
+            "name": "ПАМПЕРС  РАЗМЕР 5 УПАКОВ N46",
+            "price": 137950,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "EVE BABY"
+        },
+        {
+            "id": "258",
+            "name": "ПАМПЕРС  LALAKU  РАЗМЕР-4  N80",
+            "price": 155240,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "LALAKU"
+        },
+        {
+            "id": "259",
+            "name": "ПАМПЕРС  LALAKU  РАЗМЕР-4  N80",
+            "price": 173880,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "LALAKU"
+        },
+        {
+            "id": "260",
+            "name": "ПАМПЕРС  LALAKU  РАЗМЕР-5  N74",
+            "price": 173880,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "LALAKU"
+        },
+        {
+            "id": "261",
+            "name": "ПАМПЕРС  LALAKU  РАЗМЕР-5  N74",
+            "price": 155240,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "LALAKU"
+        },
+        {
+            "id": "262",
+            "name": "ПАМПЕРС ПАЗМЕР 2 УПАКОВ N80",
+            "price": 141890,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "EVE BABY"
+        },
+        {
+            "id": "263",
+            "name": "ПАМПЕРС РАЗМЕР 4 УПАКОВ N58",
+            "price": 141890,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "EVE BABY"
+        },
+        {
+            "id": "264",
+            "name": "ПАМПЕРСЫ ДЛЯ ДЕТЕЙ   ЛАЛАКУ  РАЗ 6 УПАКОВ N36",
+            "price": 114990,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "LALAKU"
+        },
+        {
+            "id": "265",
+            "name": "ПАМПЕРСЫ ДЛЯ ДЕТЕЙ РАЗМЕР 4 УПАКОВ N46",
+            "price": 114990,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "LALAKU"
+        },
+        {
+            "id": "266",
+            "name": "ПАМПЕРСЫ ДЛЯ ДЕТЕЙ РАЗМЕР 5 УПАКОВ N40",
+            "price": 114990,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "LALAKU"
+        },
+        {
+            "id": "267",
+            "name": "ПАНКРИАТИН  ТАБ N60",
+            "price": 12680,
+            "bestBeforeDate": "янв 2026",
+            "manufacturer": "БИОСИНТЕЗ"
+        },
+        {
+            "id": "268",
+            "name": "ПАНТОЗ DSR 40МГ+30МГ КАПСУЛ N30",
+            "price": 80470,
+            "bestBeforeDate": "окт 2026",
+            "manufacturer": "КОРОНА"
+        },
+        {
+            "id": "269",
+            "name": "ПАРАДИК 30Г ГЕЛЬ N1",
+            "price": 32300,
+            "bestBeforeDate": "авг 2026",
+            "manufacturer": "АВАНТИКА"
+        },
+        {
+            "id": "270",
+            "name": "ПАРАДИК 50МГ  500МГ ТАБ N100",
+            "price": 78560,
+            "bestBeforeDate": "мар 2027",
+            "manufacturer": "АВАНТИКА"
+        },
+        {
+            "id": "271",
+            "name": "ПАСТА ТЕЙМУРОВА 30Г  N1",
+            "price": 8100,
+            "bestBeforeDate": "ноя 2025",
+            "manufacturer": "ЗЕЛЕНАЯ ДУБРАВА"
+        },
+        {
+            "id": "272",
+            "name": "ПЕРЕКИСЬ ВОДОРОДА-RMF 3% 100МЛ ФЛАКОН N1",
+            "price": 1510,
+            "bestBeforeDate": "янв 2026",
+            "manufacturer": "РУШОНА МЕД ФАРМ"
+        },
+        {
+            "id": "273",
+            "name": "ПЕРСОВЫЙ ПЛАСТЕР 10*18СМ УПАКОВ N1",
+            "price": 4500,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "РОССИЯ"
+        },
+        {
+            "id": "274",
+            "name": "ПЕРЦОВЫЙ ПЛАСТЕР 12СМ*18СМ УПАКОВ N1",
+            "price": 3860,
+            "bestBeforeDate": "сен 2026",
+            "manufacturer": "МАКС МЕД ГРОУП"
+        },
+        {
+            "id": "275",
+            "name": "ПЕРЧАТКИ  УПАКОВ N100",
+            "price": 77280,
+            "bestBeforeDate": "янв 2027",
+            "manufacturer": "УЗБЕКИСТАН"
+        },
+        {
+            "id": "276",
+            "name": "ПЕРЧАТКИ  УПАКОВ N100",
+            "price": 77280,
+            "bestBeforeDate": "июн 2027",
+            "manufacturer": "УЗБЕКИСТАН"
+        },
+        {
+            "id": "277",
+            "name": "ПЕРЧАТКИ 7 УПАКОВ N1",
+            "price": 3440,
+            "bestBeforeDate": "апр 2027",
+            "manufacturer": "ДЕНТАФИЛ"
+        },
+        {
+            "id": "278",
+            "name": "ПЕРЧАТКИ СТЕРИЛ 7,5 УПАКОВ N1",
+            "price": 3340,
+            "bestBeforeDate": "апр 2027",
+            "manufacturer": "ФИНФЛЕКС"
+        },
+        {
+            "id": "279",
+            "name": "ПЕФСАЛ 50  250МКГ КАПС N60",
+            "price": 141950,
+            "bestBeforeDate": "фев 2027",
+            "manufacturer": "ВОРД МЕДИСИНА"
+        },
+        {
+            "id": "280",
+            "name": "ПЕФСАЛ 50\\500МКГ КАПС N60",
+            "price": 166450,
+            "bestBeforeDate": "фев 2027",
+            "manufacturer": "WORLD MEDECINE"
+        },
+        {
+            "id": "281",
+            "name": "ПЛАСТЫРЬ ДЕТСКИЙ  ДЫШАЩИЁ  72*19ММ N20 N1",
+            "price": 10550,
+            "bestBeforeDate": "дек 2028",
+            "manufacturer": "ХИТОЙ"
+        },
+        {
+            "id": "282",
+            "name": "ПЛАСТЫРЬ ДЕТСКИЙ  ДЫШАЩИЁ  72*19ММ N20 N1",
+            "price": 10560,
+            "bestBeforeDate": "дек 2028",
+            "manufacturer": "ХИТОЙ"
+        },
+        {
+            "id": "283",
+            "name": "ПЛАСТЫРЬ ПЕРСОВИЙ 10*18 №1",
+            "price": 5920,
+            "bestBeforeDate": "сен 2028",
+            "manufacturer": "ХУШВАХТ СЕРВИС"
+        },
+        {
+            "id": "284",
+            "name": "ПЛАТИФИЛЛИНА ГИДРОТАРТАТ АМП 1 МЛ. №10",
+            "price": 14200,
+            "bestBeforeDate": "апр 2028",
+            "manufacturer": "БИОФАРМ"
+        },
+        {
+            "id": "285",
+            "name": "ПОДГУЗНИКИ ДЛЯ ВЗРОСЛЫХ  М 85 - 125 СМ УПАК N30",
+            "price": 240000,
+            "bestBeforeDate": "янв 2026",
+            "manufacturer": "GIGGLES"
+        },
+        {
+            "id": "286",
+            "name": "ПОДКЛЮЧИЧНЫЙ КАТЕТЕР 1,0 №1",
+            "price": 40570,
+            "bestBeforeDate": "янв 2029",
+            "manufacturer": "СИНТЕЗ"
+        },
+        {
+            "id": "287",
+            "name": "ПОЛОТЕНЦЫ БУМАЖНЫЕ №2 УПАКОВ N1",
+            "price": 8750,
+            "bestBeforeDate": "янв 2029",
+            "manufacturer": "SUNLIGHT"
+        },
+        {
+            "id": "288",
+            "name": "ПОЛ-ПОЛА ТРАВА 2Г №15 ПАКЕТ N1",
+            "price": 4240,
+            "bestBeforeDate": "янв 2027",
+            "manufacturer": "БУРГУТ ФАРМ УЗБ"
+        },
+        {
+            "id": "289",
+            "name": "ПРЕДНИЗОЛОН 5 МГ ТАБ N100",
+            "price": 90160,
+            "bestBeforeDate": "июн 2028",
+            "manufacturer": "ГЕДЕОН РИХТЕР, ВЕНГРИЯ"
+        },
+        {
+            "id": "290",
+            "name": "ПРЕЗИРВАТИВ (KIMONO) N3  N1",
+            "price": 17920,
+            "bestBeforeDate": "янв 2027",
+            "manufacturer": "РОССИЯ"
+        },
+        {
+            "id": "291",
+            "name": "ПРЕЗИРВАТИВ (LONG LOVE) CONTEX #3   N1",
+            "price": 22900,
+            "bestBeforeDate": "сен 2027",
+            "manufacturer": "CONTEX"
+        },
+        {
+            "id": "292",
+            "name": "ПРЕЗИРВАТИВ ИЗДЕЛИЕ N3  N1",
+            "price": 8960,
+            "bestBeforeDate": "янв 2027",
+            "manufacturer": "РОССИЯ"
+        },
+        {
+            "id": "293",
+            "name": "ПРОКЛАДКА KOTEX ULTRA SOFT   N1",
+            "price": 21500,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "КИМБЕРЛИ КЛАРК, РОССИЯ"
+        },
+        {
+            "id": "294",
+            "name": "ПРОКЛАДКИ  КОНТЕКС №8 УПАКОВ N1",
+            "price": 21500,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "РОССИЯ"
+        },
+        {
+            "id": "295",
+            "name": "ПРОКЛАДКИ ЕЖЕДНЕВНЫЕ CОМФОРТА 20 УПАКОВ N1",
+            "price": 7300,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "SUNLIGHT"
+        },
+        {
+            "id": "296",
+            "name": "ПРОКЛАДКИ ЕЖЕДНЕВЫЕ ПЕРИ N100 УПАКОВ N1",
+            "price": 27800,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "SUNLIGHT"
+        },
+        {
+            "id": "297",
+            "name": "ПРОКЛАДКИ КОТЕКС №10 УПАКОВ N1",
+            "price": 21500,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "РОССИЯ"
+        },
+        {
+            "id": "298",
+            "name": "ПРОКОФ 100 МЛ СИРОП N1",
+            "price": 39700,
+            "bestBeforeDate": "фев 2025",
+            "manufacturer": "ПРОТЕКС"
+        },
+        {
+            "id": "299",
+            "name": "ПРОТЕКТА ШИП №20 ТАБ",
+            "price": 123380,
+            "bestBeforeDate": "фев 2026",
+            "manufacturer": "WORLD MEDICINE"
+        },
+        {
+            "id": "300",
+            "name": "ПРОТЕФЛАЗИД КАПЛИ 30МЛ УКРАИНА",
+            "price": 367080,
+            "bestBeforeDate": "дек 2025",
+            "manufacturer": "ФИТОФАРМ, ОАО"
+        },
+        {
+            "id": "301",
+            "name": "ПРЫСЫПКА 50Г УПАОКВ N1",
+            "price": 7720,
+            "bestBeforeDate": "фев 2026",
+            "manufacturer": "ДЖОНСОН ВАДЖОНСОН"
+        },
+        {
+            "id": "302",
+            "name": "ПРЫСЫПКА 50Г УПАОКВ N1",
+            "price": 7720,
+            "bestBeforeDate": "окт 2025",
+            "manufacturer": "ДЖОНСОН ВАДЖОНСОН"
+        },
+        {
+            "id": "303",
+            "name": "РАН-ДИТ (РАНИТИДИН)  ТАБ N100",
+            "price": 25760,
+            "bestBeforeDate": "сен 2026",
+            "manufacturer": "КОМБИТИК"
+        },
+        {
+            "id": "304",
+            "name": "РАУНАТИН--ТАБ 0.002Г№50",
+            "price": 49580,
+            "bestBeforeDate": "июн 2026",
+            "manufacturer": "ЗАО ВИФИТЕКС"
+        },
+        {
+            "id": "305",
+            "name": "РЕАСАРБИЛАКТАТ 200МЛ Р-Р N1",
+            "price": 17710,
+            "bestBeforeDate": "ноя 2026",
+            "manufacturer": "ТЕМУР МЕД ФАРМ, УЗБЕКИСТАН"
+        },
+        {
+            "id": "306",
+            "name": "РЕВМОКСИКАМ 1.5МЛ №5",
+            "price": 94300,
+            "bestBeforeDate": "июл 2026",
+            "manufacturer": "ФАРМАК, ОАО"
+        },
+        {
+            "id": "307",
+            "name": "РЕВМОКСИКАМ 7,5МГ ТАБ N20",
+            "price": 30900,
+            "bestBeforeDate": "авг 2026",
+            "manufacturer": "ФАРМАК"
+        },
+        {
+            "id": "308",
+            "name": "РЕЛИФ 28 МАЗЬ N1",
+            "price": 69830,
+            "bestBeforeDate": "дек 2025",
+            "manufacturer": "БАЙЕР"
+        },
+        {
+            "id": "309",
+            "name": "РЕЛИФ АДВАНС  СУПП N12",
+            "price": 81890,
+            "bestBeforeDate": "сен 2025",
+            "manufacturer": "БАЙЕР"
+        },
+        {
+            "id": "310",
+            "name": "РЕЛИФ УЛЬТРА  СУПП N12",
+            "price": 83870,
+            "bestBeforeDate": "дек 2025",
+            "manufacturer": "БАЙЕР"
+        },
+        {
+            "id": "311",
+            "name": "РЕННИ  ТАБ N24",
+            "price": 44210,
+            "bestBeforeDate": "окт 2026",
+            "manufacturer": "БАЙЕР"
+        },
+        {
+            "id": "312",
+            "name": "РИВИШАН  КАПС N30",
+            "price": 75860,
+            "bestBeforeDate": "мар 2025",
+            "manufacturer": "ИСШАН"
+        },
+        {
+            "id": "313",
+            "name": "РИНАЗОЛИН  0,5МГ  МЛ 15МЛ СПРЕЙ N1",
+            "price": 26100,
+            "bestBeforeDate": "авг 2026",
+            "manufacturer": "ФАРМАК"
+        },
+        {
+            "id": "314",
+            "name": "РИНАЗОЛИН 0.5 ОТ 6 ЛЕТ",
+            "price": 22800,
+            "bestBeforeDate": "авг 2026",
+            "manufacturer": "ФАРМАК, ОАО"
+        },
+        {
+            "id": "315",
+            "name": "РИНОКСИЛ КИДС 0,025 % 10 МЛ КАПЛИ N1",
+            "price": 36880,
+            "bestBeforeDate": "янв 2027",
+            "manufacturer": "НИКА ФАРМ"
+        },
+        {
+            "id": "316",
+            "name": "РОВАТИНЕКС  КАПС N50",
+            "price": 264040,
+            "bestBeforeDate": "май 2025",
+            "manufacturer": "ROWA"
+        },
+        {
+            "id": "317",
+            "name": "РОЛИНОЗ ТАБ.10МГ №10",
+            "price": 17530,
+            "bestBeforeDate": "ноя 2026",
+            "manufacturer": "ROBAPHARM"
+        },
+        {
+            "id": "318",
+            "name": "РОНОЦИТ 1000МГ  4МЛ АМП N5",
+            "price": 309620,
+            "bestBeforeDate": "фев 2027",
+            "manufacturer": "РОТАФАРМ"
+        },
+        {
+            "id": "319",
+            "name": "РОНОЦИТ 100МГ  МЛ ФЛАКОН N10",
+            "price": 178040,
+            "bestBeforeDate": "июл 2027",
+            "manufacturer": "РОТАФАРМ"
+        },
+        {
+            "id": "320",
+            "name": "РОТАВИТ КАЛЬЦИУМ ФОРТЕ 1000МГ+880МЕ ТАБ N20",
+            "price": 53620,
+            "bestBeforeDate": "июл 2026",
+            "manufacturer": "ЗЕУС"
+        },
+        {
+            "id": "321",
+            "name": "РОТАЛУД 2МГ ТАБ N10",
+            "price": 36230,
+            "bestBeforeDate": "окт 2025",
+            "manufacturer": "РОТАФАРМ"
+        },
+        {
+            "id": "322",
+            "name": "РОТАМИЦИН 3000000МЕ ТАБ N10",
+            "price": 104260,
+            "bestBeforeDate": "фев 2028",
+            "manufacturer": "УОРЛД МЕДИЦИН ИЛАЧ САН.ВЕ ТИДЖ. А.Ш"
+        },
+        {
+            "id": "323",
+            "name": "РОТАФЕР КИДС 150МЛ СИРОП N1",
+            "price": 63600,
+            "bestBeforeDate": "июл 2025",
+            "manufacturer": "РОТАФАРМ, ТУРЦИЯ"
+        },
+        {
+            "id": "324",
+            "name": "РОХТО 13МЛ ГЛ  КАПЛИ N1",
+            "price": 97050,
+            "bestBeforeDate": "сен 2026",
+            "manufacturer": "ROHTO-MENTOLATUM"
+        },
+        {
+            "id": "325",
+            "name": "РОХТО 13МЛ ГЛ КАПЛИ N1",
+            "price": 96900,
+            "bestBeforeDate": "авг 2026",
+            "manufacturer": "ROHTO PHARMACEUTICAL CO. LTD (ЯПОНИЯ"
+        },
+        {
+            "id": "326",
+            "name": "САЙТОТЕК 200МКГ ТАБ N60",
+            "price": 747040,
+            "bestBeforeDate": "дек 2025",
+            "manufacturer": "PHZER"
+        },
+        {
+            "id": "327",
+            "name": "САЛФЕТКИ МАРЛЕВЫЕ 40 СМ 10 СМ  УПАКОВ N1",
+            "price": 1240,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "САРБОНТЕКС"
+        },
+        {
+            "id": "328",
+            "name": "САМПРОСТ 5МГ ФЛАКОН N10",
+            "price": 172450,
+            "bestBeforeDate": "мар 2027",
+            "manufacturer": "САМСОН-МЕД, РОССИЯ"
+        },
+        {
+            "id": "329",
+            "name": "САНИ ПЛАСТ ИЗ БУМАЖНЫЙ  19*72ММ  N20",
+            "price": 6440,
+            "bestBeforeDate": "ноя 2027",
+            "manufacturer": "CANSIN PLAST"
+        },
+        {
+            "id": "330",
+            "name": "САНИПЛАСТ 19ММ*72ММ УПАКОВ N500",
+            "price": 70840,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "УЗБЕКИСТАН"
+        },
+        {
+            "id": "331",
+            "name": "САНОВИТ 100 МЛ СИРОП N1",
+            "price": 57810,
+            "bestBeforeDate": "окт 2026",
+            "manufacturer": "WORD MEDICINE"
+        },
+        {
+            "id": "332",
+            "name": "СЕПТАНАЗАЛ 0,05МГ  10 МЛ СПРЕЙ N1",
+            "price": 43700,
+            "bestBeforeDate": "июн 2026",
+            "manufacturer": "KRKA"
+        },
+        {
+            "id": "333",
+            "name": "СЕПТАНАЗАЛ 0,1 МГ   10МЛ СПРЕЙ N1",
+            "price": 48770,
+            "bestBeforeDate": "окт 2026",
+            "manufacturer": "KRKA"
+        },
+        {
+            "id": "334",
+            "name": "СИМАЛГЕЛЬ 250МЛ СУСП N1",
+            "price": 76610,
+            "bestBeforeDate": "сен 2026",
+            "manufacturer": "УОРЛД МЕДИЦИН ИЛАЧ САН.ВЕ ТИДЖ. А.Ш"
+        },
+        {
+            "id": "335",
+            "name": "СИСТЕМА Д  ПЕРЕЛИВАНИЯ КРОВИ  УПАКОВ N1",
+            "price": 5020,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "КДМ, ГЕРМАНИЯ"
+        },
+        {
+            "id": "336",
+            "name": "СИСТЕМА РЕГИСТОН ++++",
+            "price": 1800,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "UZBEKISTAN"
+        },
+        {
+            "id": "337",
+            "name": "СМЕКТА 3Г ПОР N30",
+            "price": 107970,
+            "bestBeforeDate": "окт 2026",
+            "manufacturer": "IPSEN"
+        },
+        {
+            "id": "338",
+            "name": "СНУП 0,1% 15МЛ СПРЕЙ N1",
+            "price": 41210,
+            "bestBeforeDate": "фев 2029",
+            "manufacturer": "STADA"
+        },
+        {
+            "id": "339",
+            "name": "СОСКА БУТЫЛОЧНАЯ  (ЗАПАСНОЙ) УПАКОВ N1  УПАКОВ N1",
+            "price": 2640,
+            "bestBeforeDate": "янв 2027",
+            "manufacturer": "CAMERA"
+        },
+        {
+            "id": "340",
+            "name": "СОСКА ДЛЯ ДЕТЕЙ  УПАКОВ N1",
+            "price": 2600,
+            "bestBeforeDate": "янв 2026",
+            "manufacturer": "ПАНДА"
+        },
+        {
+            "id": "341",
+            "name": "СОСКА ЗАПАСНОЙ КАТТАСИ  УПАКОВ N1",
+            "price": 7720,
+            "bestBeforeDate": "янв 2027",
+            "manufacturer": "AVEAT"
+        },
+        {
+            "id": "342",
+            "name": "СОСКА МЕВА  УПАК N1",
+            "price": 12230,
+            "bestBeforeDate": "янв 2027",
+            "manufacturer": "КИТАЙ"
+        },
+        {
+            "id": "343",
+            "name": "СОСКА МУЙЛАБ  УПАКОВ N1",
+            "price": 13520,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "ХИТОЙ"
+        },
+        {
+            "id": "344",
+            "name": "СОСКА ПАЧОК  УПАКОВ N1",
+            "price": 3220,
+            "bestBeforeDate": "янв 2027",
+            "manufacturer": "ХИТОЙ"
+        },
+        {
+            "id": "345",
+            "name": "СПАЗМАЛГОН  ТАБ N20",
+            "price": 24900,
+            "bestBeforeDate": "окт 2025",
+            "manufacturer": "АКТАВИС"
+        },
+        {
+            "id": "346",
+            "name": "СПИЛАКТОН 50МГ ТАБ N20",
+            "price": 37730,
+            "bestBeforeDate": "июн 2028",
+            "manufacturer": "WORD MEDICINE"
+        },
+        {
+            "id": "347",
+            "name": "СПИРТ 70 % 50 МЛ ФЛАКОН N1",
+            "price": 1280,
+            "bestBeforeDate": "сен 2025",
+            "manufacturer": "ФАРМ ЛУКС МЕДИКАЛ"
+        },
+        {
+            "id": "348",
+            "name": "СТРОНГ СА+С 200МЛ СИРОП N1",
+            "price": 59200,
+            "bestBeforeDate": "мар 2025",
+            "manufacturer": "STRONG BIO PHARM"
+        },
+        {
+            "id": "349",
+            "name": "СУКРАФИЛ 1Г- 200МЛ СИРОП N1",
+            "price": 78480,
+            "bestBeforeDate": "авг 2026",
+            "manufacturer": "SERENA HEALTHCARE INDIA"
+        },
+        {
+            "id": "350",
+            "name": "СУПЕРКАМ МЕР 2МЛ АМП N10",
+            "price": 25300,
+            "bestBeforeDate": "апр 2027",
+            "manufacturer": "МЕРРИ МЕД"
+        },
+        {
+            "id": "351",
+            "name": "ТАЙЛОЛ ПЛЮС ТАБ№10",
+            "price": 5700,
+            "bestBeforeDate": "мар 2025",
+            "manufacturer": "НОБЕЛЬ-ФАРМСАНОАТ"
+        },
+        {
+            "id": "352",
+            "name": "ТАНОМЕТР КЛАССИК  №1",
+            "price": 145240,
+            "bestBeforeDate": "янв 2030",
+            "manufacturer": "АДЪЮТОР"
+        },
+        {
+            "id": "353",
+            "name": "ТЕРАФЛЕКС АДВАНС  КАПС N120",
+            "price": 441020,
+            "bestBeforeDate": "дек 2025",
+            "manufacturer": "БАЙЕР"
+        },
+        {
+            "id": "354",
+            "name": "ТЕРМОМЕТР ЭЛЕКТРОННЫЙ ДИГИТАЛ  УПАКОВ N1",
+            "price": 19100,
+            "bestBeforeDate": "янв 2026",
+            "manufacturer": "ХИТОЙ"
+        },
+        {
+            "id": "355",
+            "name": "ТЕСТ НА БЕРЕМЕННОСТЬ ВЕРА №1",
+            "price": 640,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "ФАКТОР-МЕД"
+        },
+        {
+            "id": "356",
+            "name": "ТИВОРТИН АСПАРТАТ 100МЛ СИПОР N1",
+            "price": 177190,
+            "bestBeforeDate": "окт 2026",
+            "manufacturer": "ЮРИЯ ФАРМ"
+        },
+        {
+            "id": "357",
+            "name": "ТИВОРТИН АСПАРТАТ СИР 200МЛ",
+            "price": 214900,
+            "bestBeforeDate": "окт 2025",
+            "manufacturer": "ЮРИЯ ФАРМ"
+        },
+        {
+            "id": "358",
+            "name": "ТИВОРТИН РАСВОР 4.2% 100МЛ",
+            "price": 61110,
+            "bestBeforeDate": "мар 2026",
+            "manufacturer": "ЮРИЯ ФАРМ"
+        },
+        {
+            "id": "359",
+            "name": "ТИРОЗОЛ 10МГ ТАБ N50",
+            "price": 103040,
+            "bestBeforeDate": "мар 2026",
+            "manufacturer": "MERCK"
+        },
+        {
+            "id": "360",
+            "name": "ТОНЗИЛГОН H 100МЛ КАПЛИ N1",
+            "price": 129700,
+            "bestBeforeDate": "авг 2025",
+            "manufacturer": "БИОНОРИКА, ГЕРМАНИЯ"
+        },
+        {
+            "id": "361",
+            "name": "ТРАВА ЧЕРЕДЫ 2ГР №20 УПАКОВ N1",
+            "price": 6370,
+            "bestBeforeDate": "апр 2025",
+            "manufacturer": "АКТАШ, УЗБЕКИСТАН"
+        },
+        {
+            "id": "362",
+            "name": "ТРАВА ЧЕРЕДЫ №15 2Г УПАКОВ N1",
+            "price": 4200,
+            "bestBeforeDate": "янв 2026",
+            "manufacturer": "БУРГУТ ФАРМ УЗБ"
+        },
+        {
+            "id": "363",
+            "name": "ТРАВРЕЛАКС НЕО 100МЛ СИРОП N1",
+            "price": 26910,
+            "bestBeforeDate": "янв 2026",
+            "manufacturer": "ISSHAAH"
+        },
+        {
+            "id": "364",
+            "name": "ТРИНАЗОЛ КРЕМ 15Г",
+            "price": 50870,
+            "bestBeforeDate": "дек 2026",
+            "manufacturer": "АВАНТИКА"
+        },
+        {
+            "id": "365",
+            "name": "ТРОКСЕВАЗИН 40Г ГЕЛЬ N1",
+            "price": 47900,
+            "bestBeforeDate": "сен 2027",
+            "manufacturer": "АКТАВИС"
+        },
+        {
+            "id": "366",
+            "name": "ТРУСЫ ДЛЯ МАЛЬЧИКОВ    УПАКОВ N1",
+            "price": 14160,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "УЗБЕКИСТАН"
+        },
+        {
+            "id": "367",
+            "name": "ТРУСЫ ДЛЯ МАЛЬЧИКОВ    УПАКОВ N1",
+            "price": 13520,
+            "bestBeforeDate": "июн 2029",
+            "manufacturer": "УЗБЕКИСТАН"
+        },
+        {
+            "id": "368",
+            "name": "УЛСЕПАМ 40 МГ ТАБ N14",
+            "price": 65550,
+            "bestBeforeDate": "ноя 2026",
+            "manufacturer": "WORD MEDICINE"
+        },
+        {
+            "id": "369",
+            "name": "УНИ ФРИСТОЛ (ПАНКРЕАТИН)  ТАБ N100",
+            "price": 70840,
+            "bestBeforeDate": "ноя 2026",
+            "manufacturer": "КОМБИТИК"
+        },
+        {
+            "id": "370",
+            "name": "УРСОСАН КАП 250МГ №100",
+            "price": 399300,
+            "bestBeforeDate": "мар 2028",
+            "manufacturer": "PROMED"
+        },
+        {
+            "id": "371",
+            "name": "УРСОСАН КАП 250МГ №100",
+            "price": 451270,
+            "bestBeforeDate": "сен 2028",
+            "manufacturer": "PROMED"
+        },
+        {
+            "id": "372",
+            "name": "УХА ЧИСТКА  №60 УПАКОВ N1",
+            "price": 4000,
+            "bestBeforeDate": "янв 2026",
+            "manufacturer": "УЗБЕКИСТАН"
+        },
+        {
+            "id": "373",
+            "name": "УХОЧИСТКА  №72  УПАК N1",
+            "price": 5150,
+            "bestBeforeDate": "янв 2027",
+            "manufacturer": "BAMBOO"
+        },
+        {
+            "id": "374",
+            "name": "ФАРАМИН 250МЛ Р-Р N1",
+            "price": 92090,
+            "bestBeforeDate": "янв 2026",
+            "manufacturer": "SHIJIAZHUANG SIAO CO.LTD КИТАЙ"
+        },
+        {
+            "id": "375",
+            "name": "ФЕМИСТРОН КРЕМ ВАГ. 14Г",
+            "price": 109130,
+            "bestBeforeDate": "июн 2026",
+            "manufacturer": "МУЛИНЬСЕНЬ"
+        },
+        {
+            "id": "376",
+            "name": "ФЕНИБУТ №20",
+            "price": 19570,
+            "bestBeforeDate": "июл 2026",
+            "manufacturer": "БЕЛМЕДПРЕПАРАТЫ"
+        },
+        {
+            "id": "377",
+            "name": "ФЕРСИНОЛ  30МЛ КАПЛИ N1",
+            "price": 63830,
+            "bestBeforeDate": "ноя 2026",
+            "manufacturer": "WORD MEDICINE"
+        },
+        {
+            "id": "378",
+            "name": "ФЛУНОЛ 150МГ №1",
+            "price": 14600,
+            "bestBeforeDate": "май 2027",
+            "manufacturer": "НОБЕЛЬ-ФАРМСАНОАТ"
+        },
+        {
+            "id": "379",
+            "name": "ФЛЮКОКС 100 МЛ Р-РА N1",
+            "price": 44200,
+            "bestBeforeDate": "ноя 2026",
+            "manufacturer": "УЛЬТРА ЛАБ., ИНДИЯ"
+        },
+        {
+            "id": "380",
+            "name": "ФОНИПАР (ДИКЛОФЕНАК ПАРАЦЕТАМОЛ) 50МГ  500МГ ТАБ N100",
+            "price": 68600,
+            "bestBeforeDate": "июл 2025",
+            "manufacturer": "RATNAMANI HEALTHCARE"
+        },
+        {
+            "id": "381",
+            "name": "ФОРСИЛ СО ФКУСОМ АПЕЛСИН 3Г САШЕ N30",
+            "price": 85200,
+            "bestBeforeDate": "авг 2026",
+            "manufacturer": "НИКА ФАРМ"
+        },
+        {
+            "id": "382",
+            "name": "ФОРСИЛ СО ФКУСОМ АПЕЛСИН 3Г САШЕ N30",
+            "price": 83500,
+            "bestBeforeDate": "апр 2026",
+            "manufacturer": "НИКА ФАРМ"
+        },
+        {
+            "id": "383",
+            "name": "ФОРСИЛ СО ФКУСОМ АПЕЛСИН 3Г САШЕ N30",
+            "price": 62400,
+            "bestBeforeDate": "сен 2024",
+            "manufacturer": "НИКА ФАРМ"
+        },
+        {
+            "id": "384",
+            "name": "ФРОМИЛИД УНО  500МГ ТАБ N7",
+            "price": 73630,
+            "bestBeforeDate": "ноя 2026",
+            "manufacturer": "KRKA"
+        },
+        {
+            "id": "385",
+            "name": "ФУЗОЛ 150 МГ ТАБ №1",
+            "price": 30800,
+            "bestBeforeDate": "мар 2026",
+            "manufacturer": "MEDIWIN"
+        },
+        {
+            "id": "386",
+            "name": "ФУРОТАЛГИН 2.5МГ  30 5 5МЛУШНИЙ КАП",
+            "price": 27180,
+            "bestBeforeDate": "май 2026",
+            "manufacturer": "SOFARMA"
+        },
+        {
+            "id": "387",
+            "name": "ХАССО ПОДЛОКОТНИК   N1",
+            "price": 98600,
+            "bestBeforeDate": "янв 2026",
+            "manufacturer": "УЗБЕКИСТАН"
+        },
+        {
+            "id": "388",
+            "name": "ХАССО ПОДЛОКОТНИК АРЗОНИ   N1",
+            "price": 85400,
+            "bestBeforeDate": "янв 2026",
+            "manufacturer": "УЗБЕКИСТАН"
+        },
+        {
+            "id": "389",
+            "name": "ХЛОРАКТИВ  ТАБ N300",
+            "price": 77280,
+            "bestBeforeDate": "янв 2027",
+            "manufacturer": "FAYZ SHIFO SERVIS"
+        },
+        {
+            "id": "390",
+            "name": "ХОНДРОИТИН 2МЛ АМП N10   N10",
+            "price": 94200,
+            "bestBeforeDate": "янв 2024",
+            "manufacturer": "БОРИСОВВСКИЙ"
+        },
+        {
+            "id": "391",
+            "name": "ЦЕФТРИАКСОН НАТРИЯ 1000МГ ФЛАКОН N10",
+            "price": 37940,
+            "bestBeforeDate": "дек 2025",
+            "manufacturer": "НИКА ФАРМ"
+        },
+        {
+            "id": "392",
+            "name": "ЦИКЛОН ДХ  ТАБ N4",
+            "price": 36230,
+            "bestBeforeDate": "дек 2025",
+            "manufacturer": "DREAM PHARM"
+        },
+        {
+            "id": "393",
+            "name": "ЦИКЛОН ДХ 50МГ ТАБ №4",
+            "price": 27890,
+            "bestBeforeDate": "дек 2025",
+            "manufacturer": "АВИСОН"
+        },
+        {
+            "id": "394",
+            "name": "ЦИПРОФЛОКСАЦИН 500МГ ТАБ N100",
+            "price": 105710,
+            "bestBeforeDate": "фев 2027",
+            "manufacturer": "НИКА ФАРМ"
+        },
+        {
+            "id": "395",
+            "name": "ЦИТРАМОН П  ТАБ N6",
+            "price": 1970,
+            "bestBeforeDate": "мар 2028",
+            "manufacturer": "ИРБИТСКИЙ Х.Ф.З."
+        },
+        {
+            "id": "396",
+            "name": "ЦИТРАМОН П  ТАБ N6",
+            "price": 1950,
+            "bestBeforeDate": "апр 2028",
+            "manufacturer": "ИРБИТСКИЙ Х.Ф.З."
+        },
+        {
+            "id": "397",
+            "name": "ЧОРТОК СУВИ 0,5 Л БУТЫЛК N1",
+            "price": 10730,
+            "bestBeforeDate": "май 2026",
+            "manufacturer": "CHORTOQ MINERAL"
+        },
+        {
+            "id": "398",
+            "name": "ШАМПУН ДЖОНСОНС 100МЛ УПАКОВ N1",
+            "price": 19960,
+            "bestBeforeDate": "янв 2027",
+            "manufacturer": "ДЖОНСОН ВАДЖОНСОН"
+        },
+        {
+            "id": "399",
+            "name": "ШАМПУНЬ 300 МЛ УПАКОВ N1",
+            "price": 39920,
+            "bestBeforeDate": "янв 2027",
+            "manufacturer": "ДЖОНСОН ВАДЖОНСОН"
+        },
+        {
+            "id": "400",
+            "name": "ШПАТЕЛЬ",
+            "price": 615,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "УЗБЕКИСТАН"
+        },
+        {
+            "id": "401",
+            "name": "ШПРИЦ----   20 МЛ  УПАКОВ N1",
+            "price": 1100,
+            "bestBeforeDate": "янв 2026",
+            "manufacturer": "TBF JEKT"
+        },
+        {
+            "id": "402",
+            "name": "ШПРИЦ -----  50МЛ (60МЛ) С ИГЛОЙ ЖАНЕ   N1",
+            "price": 8370,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "ХИТОЙ"
+        },
+        {
+            "id": "403",
+            "name": "ШПРИЦ 1 МЛ УПАКОВ N1",
+            "price": 330,
+            "bestBeforeDate": "янв 2029",
+            "manufacturer": "GOLD JECT"
+        },
+        {
+            "id": "404",
+            "name": "ШПРИЦ 10ГР(HEALTH)РЕГИСТОН-----",
+            "price": 365,
+            "bestBeforeDate": "янв 2030",
+            "manufacturer": "HEALTH"
+        },
+        {
+            "id": "405",
+            "name": "ШПРИЦ 2ГР(HEALTH) РЕГИСТОН-------",
+            "price": 245,
+            "bestBeforeDate": "янв 2030",
+            "manufacturer": "HEALTH"
+        },
+        {
+            "id": "406",
+            "name": "ШПРИЦ 5ГР(HEALTH)--------",
+            "price": 280,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "HEALTH"
+        },
+        {
+            "id": "407",
+            "name": "ШПРИЦ 5ГР(HEALTH)--------",
+            "price": 280,
+            "bestBeforeDate": "янв 2030",
+            "manufacturer": "HEALTH"
+        },
+        {
+            "id": "408",
+            "name": "ШПРИЦ КИДДИ------ 2МЛ УПАКОВ N1",
+            "price": 385,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "УЗБЕКИСТАН"
+        },
+        {
+            "id": "409",
+            "name": "ШПРИЦ СТЕРИЛЬНЫЙ С ИГЛОЙ 50МЛ  N1",
+            "price": 5800,
+            "bestBeforeDate": "янв 2028",
+            "manufacturer": "XITOY"
+        },
+        {
+            "id": "410",
+            "name": "ЭМКОР 10 ТАБ П  О 10МГ №30",
+            "price": 59400,
+            "bestBeforeDate": "май 2026",
+            "manufacturer": "GM PHARMACEUTICALS"
+        },
+        {
+            "id": "411",
+            "name": "ЭНАП ТАБ 10МГ №20",
+            "price": 26680,
+            "bestBeforeDate": "сен 2026",
+            "manufacturer": "KRKA"
+        },
+        {
+            "id": "412",
+            "name": "ЭНАП ТАБ 2.5МГ №20",
+            "price": 14630,
+            "bestBeforeDate": "дек 2026",
+            "manufacturer": "KRKA"
+        },
+        {
+            "id": "413",
+            "name": "ЭНАП ТАБ 2.5МГ №20",
+            "price": 14700,
+            "bestBeforeDate": "апр 2026",
+            "manufacturer": "KRKA"
+        },
+        {
+            "id": "414",
+            "name": "ЭНАП ТАБ 20МГ №20",
+            "price": 38650,
+            "bestBeforeDate": "ноя 2025",
+            "manufacturer": "KRKA"
+        },
+        {
+            "id": "415",
+            "name": "ЭНТЕРОСГЕЛЬ 225 Г ПАСТА N1",
+            "price": 190000,
+            "bestBeforeDate": "июн 2026",
+            "manufacturer": "ЛАХИСАМ"
+        },
+        {
+            "id": "416",
+            "name": "ЭРГОФЕРОН  ТАБ N20",
+            "price": 59220,
+            "bestBeforeDate": "янв 2027",
+            "manufacturer": "МАТЕРИЯ МЕДИКА"
+        },
+        {
+            "id": "417",
+            "name": "ЭРГОФЕРОН  ТАБ N20",
+            "price": 60500,
+            "bestBeforeDate": "янв 2027",
+            "manufacturer": "МАТЕРИЯ МЕДИКА"
+        },
+        {
+            "id": "418",
+            "name": "ЭССЕНЦИАЛЕ ФОРТЕ H КАПС №30",
+            "price": 76300,
+            "bestBeforeDate": "июл 2025",
+            "manufacturer": "САНОФИ АВЕНТИС, ФРАНЦИЯ"
+        },
+        {
+            "id": "419",
+            "name": "ЯФФА 100МЛ Р-Р N1",
+            "price": 41210,
+            "bestBeforeDate": "сен 2025",
+            "manufacturer": "ИСТ-ФАРМ РОССИЯ"
+        }
+    ]
+}

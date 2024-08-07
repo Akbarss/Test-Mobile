@@ -15,9 +15,7 @@ const Layout: React.FC<LayoutProps> = (props) => {
       <>
         <Header />
         <Stack display={"flex"} minHeight={"100vh"} flexDirection={"column"}>
-          {/* <Fade in mountOnEnter unmountOnExit> */}
           <Stack flex={1}>{props.children}</Stack>
-          {/* </Fade> */}
         </Stack>
         <Footer />
       </>
